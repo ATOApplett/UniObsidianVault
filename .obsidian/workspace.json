@@ -166,26 +166,34 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4dd5171aa5fe0fcf",
+  "active": "266fa801ae262839",
   "lastOpenFiles": [
+    "Pasted Images/Pasted image 20250820153306.png",
+    "Pasted Images/Pasted image 20250820153050.png",
+    "Pasted Images",
+    "2025Sem2/QUT010/Assignment.md",
+    "2025Sem2/Checklist.md",
+    "HTML import/qut010a1.md",
+    "HTML import/Attachments/Important notice banner blue.png",
+    "HTML import/Attachments/c6998cdeb9c9087f.svg",
+    "HTML import/Attachments/Assignment reminder banner cyan.png",
+    "HTML import/Attachments/216eca4688bb838f.svg",
+    "HTML import/Attachments",
+    "HTML import",
     "~$QUT010 Assignment Template_2025-3.pptx",
     "QUT010 Assignment Template_2025-3.pptx",
     "2025Sem2/QUT010/QUT010 Assignment Template_2025-3 1.pptx",
     "2025Sem2/QUT010/QUT010 Assignment Template_2025-3.pptx",
     "2025Sem2/EGB348/Assignment 1.md",
-    "2025Sem2/QUT010/Assignment.md",
     "2025Sem2/QUT010",
     "2025Sem2/EGB242/Studios/Studio 1.md",
     "2025Sem2/EGB242/Studio 1/Untitled",
-    "2025Sem2/Checklist.md",
     "2025Sem2/EGB242/Studios",
     "README.md",
-    "2025Sem2",
-    "2025Sem2.md",
-    "2025Sem2/EGB348",
-    "2025Sem2/EGB242"
+    "2025Sem2.md"
   ]
 }
