@@ -15,10 +15,10 @@
 	- [ ] Studio 3 [due ] `5%`
 	- [ ] Studio 4 [due ] `5%`
 - Practicals `40%`
-	- [ ] Practical 1 []
-	- [ ] Practical 2
-	- [ ] Practical 3
-	- [ ] Practical 4
+	- [ ] Practical 1 [29/08] `10%`
+	- [ ] Practical 2 `10%`
+	- [ ] Practical 3 `10%`
+	- [ ] Practical 4 `10%`
 
 **EGB242**
 - Individual [due 05/09] `25%`
