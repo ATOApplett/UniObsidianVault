@@ -14,8 +14,9 @@
 	- [ ] Studio 2 [due ] `5%`
 	- [ ] Studio 3 [due ] `5%`
 	- [ ] Studio 4 [due ] `5%`
-- P
 
 **EGB242**
-
+- Individual [due 05/09] `25%`
+- 
+- Group [due ??/10] `35%`
 
