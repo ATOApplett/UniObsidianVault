@@ -1,5 +1,5 @@
 #TODO Assignments
-**EGB348**
+# **EGB348**
 - Studios `20%`
 	- [ ] Studio 1 [due 29/08] `5%`
 	
@@ -18,17 +18,17 @@
 	- [ ] Practical 3 `10%`
 	- [ ] Practical 4 `10%`
 
-**EGB242**
+# **EGB242**
 - Individual [due 05/09] `25%`
 	- [ ] Section 1
 	- [ ] Section 2
 	- [ ] Section 3
 - Group [due ??/10] `35%`
 
-**QUT010**
+# **QUT010**
 - [ ] Assignment [due 31/08] `100%`
 
-**CAB302**
+# **CAB302**
 - Sprints
 	- [ ] Checkpoint 1 [21/07]
 	- [ ] Sprint 1 [05/08]
