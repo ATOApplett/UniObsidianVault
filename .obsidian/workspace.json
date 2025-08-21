@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Assignment 1"
             }
+          },
+          {
+            "id": "88ebc2bda20808c4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,6 +173,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,7 +184,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4dd5171aa5fe0fcf",
+  "active": "88ebc2bda20808c4",
   "lastOpenFiles": [
     "2025Sem2/QUT010/Assignment.md",
     "2025Sem2/Checklist.md",
