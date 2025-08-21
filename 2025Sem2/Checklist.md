@@ -1,5 +1,3 @@
-
-
 #TODO Assignments
 **EGB348**
 - Studios `20%`
