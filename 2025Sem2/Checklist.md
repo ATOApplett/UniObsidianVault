@@ -38,3 +38,5 @@
 	- [ ] Sprint 3 [??]
 - Individual
 
+Update CAB302 Worklog every week
+
