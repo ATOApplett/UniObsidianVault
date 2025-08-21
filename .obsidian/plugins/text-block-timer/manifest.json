@@ -1,0 +1,9 @@
+{
+    "id": "text-block-timer",
+    "version": "1.0.6",
+    "minAppVersion": "1.8.0",
+    "name": "Text Block Timer",
+    "author": "frankthwang",
+    "description": "Add a timer to text block to enable count-up timing.",
+    "isDesktopOnly": false
+}
