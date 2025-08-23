@@ -142,17 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar Notes/2025-08-23.md",
+                "file": "2025Sem2/CAB302/Work Log.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-08-23"
+              "title": "Outline of Work Log"
             }
           },
           {
-            "id": "996bf971caebaf81",
+            "id": "eff0413f93f2b6d0",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -178,10 +178,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "pomodoro-timer:Toggle timer panel": false
     }
   },
-  "active": "4dd5171aa5fe0fcf",
+  "active": "eff0413f93f2b6d0",
   "lastOpenFiles": [
     "Calendar Notes/2025-08-23.md",
     "Calendar Notes/2025-08-24.md",
