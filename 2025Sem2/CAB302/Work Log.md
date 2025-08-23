@@ -15,18 +15,25 @@
 |          | *Total = 7 hours 30 mins*                                                                                                                                         |                  |
 | 5        | Meetings                                                                                                                                                          | 2 hours + TBA    |
 | 5        | Re:Mastered Work Log                                                                                                                                              | 1 hour + 12 mins |
-| 5        | Writing User Stories                                                                                                                                              |                  |
-| 5        | Playing Around With Code                                                                                                                                          |                  |
-|          | *Total = *                                                                                                                                                        |                  |
+| 5        | Writing User Stories                                                                                                                                              | Aim for 1        |
+| 5        | Playing Around With Code                                                                                                                                          | Aim for 1 or 2   |
+| 5        | Documentation                                                                                                                                                     | Aim for 1        |
+|          | *Total = Aim for 8 hours*                                                                                                                                         |                  |
+| 6        | Meetings                                                                                                                                                          | Aim for 4        |
+| 6        |                                                                                                                                                                   |                  |
+| 6        |                                                                                                                                                                   |                  |
+| 6        |                                                                                                                                                                   |                  |
 
 # Timing Proof:
 - #Week5
 	- Re:Master Work Log
 		- [x] <span class="timer-p" id="uUFXEfh" data-dur="4367" data-ts="1755934931">【⏳01:12:47 】</span> 
 	- Writing User Stories
-		- [ ] <span class="timer-r" id="uUGg3C7" data-dur="518" data-ts="1755935460">【⏳00:08:38 】</span> 
+		- [ ] <span class="timer-r" id="uUGg3C7" data-dur="821" data-ts="1755935763">【⏳00:13:41 】</span> 
 	- Testing Around With Code
 		- [ ] <span class="timer-p" id="uUGgpJT" data-dur="13" data-ts="1755935037">【⏳00:00:00 】</span>
+	- Documentation
+		- [ ] <span class="timer-p" id="uUGiLTz" data-dur="3" data-ts="1755935589">【⏳00:00:00 】</span> 
 - #Week6
 # Tasks Proof
 - #Week3 
