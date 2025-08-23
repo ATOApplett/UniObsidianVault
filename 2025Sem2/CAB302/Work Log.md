@@ -1,29 +1,35 @@
 # Table of Tasks
 
-| Week | Task                                                                                                                                                              | Time    |
-| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| 3    | Meetings + Tute                                                                                                                                                   | 4 hours |
-| 3    | Completed Repo Activity                                                                                                                                           | 1 hour  |
-| 3    | [Setting Up and Learning Jira](https://softwarecab302.atlassian.net/jira/software/projects/SCRUM/summary)                                                         | 1 hour  |
-| 3    | Documentation                                                                                                                                                     | 1 hour  |
-| 3    | Setting                                                                                                                                                           | 1 hour  |
-| 4    | Meetings + Tute                                                                                                                                                   | 3 hours |
-| 4    | [Miro Board Setting Up + Brainstorming](https://miro.com/app/board/uXjVJTioquY=/)                                                                                 | 1 hour  |
-| 4    | [Setting up basic work log for checkpoint 1](https://docs.google.com/document/d/1L9IiitUAt8Bo-wTfecQ8EK1HEUp3s1QUE8nfyZk508M/edit?tab=t.0#heading=h.scivdxegvvoe) | 1 hour  |
-| 4    | Basic Outline for Project                                                                                                                                         | 30 mins |
-| 4    | Research for Project                                                                                                                                              | 1 hour  |
-| 4    | Features and Requirements List                                                                                                                                    | 1 hour  |
-|      |                                                                                                                                                                   |         |
+| Week | Task                                                                                                                                                              | Time             |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| 3    | Meetings + Tute                                                                                                                                                   | 4 hours          |
+| 3    | Completed Repo Activity                                                                                                                                           | 1 hour           |
+| 3    | [Setting Up and Learning Jira](https://softwarecab302.atlassian.net/jira/software/projects/SCRUM/summary)                                                         | 1 hour           |
+| 3    | Documentation                                                                                                                                                     | 1 hour           |
+| 3    | Setting Up IntelliJ + Compiling and Committing on Repo                                                                                                            | 1 hour           |
+| 4    | Meetings + Tute                                                                                                                                                   | 3 hours          |
+| 4    | [Miro Board Setting Up + Brainstorming](https://miro.com/app/board/uXjVJTioquY=/)                                                                                 | 1 hour           |
+| 4    | [Setting up basic work log for checkpoint 1](https://docs.google.com/document/d/1L9IiitUAt8Bo-wTfecQ8EK1HEUp3s1QUE8nfyZk508M/edit?tab=t.0#heading=h.scivdxegvvoe) | 1 hour           |
+| 4    | Basic Outline for Project                                                                                                                                         | 30 mins          |
+| 4    | Research for Project                                                                                                                                              | 1 hour           |
+| 4    | Features and Requirements List                                                                                                                                    | 1 hour           |
+| 5    | Meetings + Tute                                                                                                                                                   | 2 hours + TBA    |
+| 5    | Re:Mastered Work Log                                                                                                                                              | 1 hour + 12 mins |
+| 5    | Writing User Stories                                                                                                                                              |                  |
 
 # Timing Proof:
 - #Week5
-	- Setting Up Work Log
-		- [ ] <span class="timer-r" id="uUFXEfh" data-dur="4287" data-ts="1755934851">【⏳01:11:27 】</span> 
+	- Re:Master Work Log
+		- [x] <span class="timer-p" id="uUFXEfh" data-dur="4367" data-ts="1755934931">【⏳01:12:47 】</span> 
 	- Writing User Stories
-		- [ ] 
-
+		- [ ] <span class="timer-r" id="uUGg3C7" data-dur="212" data-ts="1755935154">【⏳00:03:32 】</span> 
+	- Testing Around With Code
+		- [ ] <span class="timer-p" id="uUGgpJT" data-dur="13" data-ts="1755935037">【⏳00:00:00 】</span>
+- #Week6
 # Tasks Proof
 - #Week3 
+- #Week4 
+- #Week5 
 	- 
 # Meetings Proof
 
