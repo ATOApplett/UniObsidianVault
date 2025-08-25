@@ -1,7 +1,7 @@
 #TODO Assignments
 # **EGB348**
 - Studios `20%`
-	- [ ] Studio 1 [due 29/08] `5%`
+	- [ ] [[2025Sem2/EGB348/Studio 1.md|Studio 1]] [due 29/08] `5%`
 	
 		- [ ] Q1 (Hand Calculations)
 			- [ ] Part 1
@@ -35,6 +35,7 @@
 	- [ ] Sprint 2 [??]
 	- [ ] Sprint 3 [??]
 - Individual
+- [[2025Sem2/CAB302/Work Log.md|Work Log]]
 
-Update CAB302 Worklog every week
+
 
