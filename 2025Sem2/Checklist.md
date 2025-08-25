@@ -1,7 +1,7 @@
 #TODO Assignments
 # **EGB348**
 - Studios `20%`
-	- [ ] [[2025Sem2/EGB348/Studio 1.md|Studio 1]] [due 29/08] `5%`
+	- [ ] [[Studio 1|Studio 1]] [due 29/08] `5%`
 	
 		- [ ] Q1 (Hand Calculations)
 			- [ ] Part 1
