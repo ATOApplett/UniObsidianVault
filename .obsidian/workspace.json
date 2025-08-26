@@ -181,43 +181,6 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "floating": {
-    "id": "9518afdde811102f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "e02f80cc18877a8e",
-        "type": "window",
-        "children": [
-          {
-            "id": "877594537cd996b3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "07b57341487a4151",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "PDFS/EGB242_Assignment_1-1.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "EGB242_Assignment_1-1"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1280,
-        "y": -319,
-        "width": 1280,
-        "height": 1441,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "4dd5171aa5fe0fcf",
   "lastOpenFiles": [
     "PDFS/EGB242_Assignment_1-1.pdf",
