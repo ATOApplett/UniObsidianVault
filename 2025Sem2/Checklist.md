@@ -26,7 +26,7 @@
 - Group [due ??/10] `35%`
 
 # **QUT010**
-- [ ] Assignment [due 31/08] `100%`
+- [x] Assignment [due 31/08] `100%`
 
 # **CAB302**
 - Sprints
