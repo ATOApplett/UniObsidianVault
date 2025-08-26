@@ -181,10 +181,49 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4dd5171aa5fe0fcf",
+  "floating": {
+    "id": "abc1e36e342aba21",
+    "type": "floating",
+    "children": [
+      {
+        "id": "67458be95776f45f",
+        "type": "window",
+        "children": [
+          {
+            "id": "5db12505cdb0ffdb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8fd17a0550151e74",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "PDFS/EGB242_Assignment_1-1.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "EGB242_Assignment_1-1"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1080,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "8fd17a0550151e74",
   "lastOpenFiles": [
-    "PDFS/EGB242_Assignment_1-1.pdf",
     "2025Sem2/EGB242/Report.md",
+    "Calendar Notes/2025-08-23.md",
+    "Calendar Notes/2025-08-30.md",
+    "PDFS/EGB242_Assignment_1-1.pdf",
     "PDFS/EGB242 - Assignment Feed-Forward.pdf",
     "PDFS",
     "README.md",
@@ -193,8 +232,6 @@
     "Pasted Images/Pasted image 20250825122814.png",
     "Pasted Images/Pasted image 20250825122749.png",
     "Pasted Images/Pasted image 20250825122732.png",
-    "Calendar Notes/2025-08-30.md",
-    "Calendar Notes/2025-08-23.md",
     "Calendar Notes/2025-08-29.md",
     "2025Sem2/Checklist.md",
     "2025Sem2/CAB302/Work Log.md",
