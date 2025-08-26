@@ -209,19 +209,19 @@
           }
         ],
         "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 960,
-        "height": 1080,
+        "x": -1280,
+        "y": -319,
+        "width": 1280,
+        "height": 1441,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "4dd5171aa5fe0fcf",
+  "active": "8fd17a0550151e74",
   "lastOpenFiles": [
-    "PDFS/EGB242 - Assignment Feed-Forward.pdf",
     "2025Sem2/EGB242/Report.md",
+    "PDFS/EGB242 - Assignment Feed-Forward.pdf",
     "PDFS/EGB242_Assignment_1-1.pdf",
     "Calendar Notes/2025-08-23.md",
     "Calendar Notes/2025-08-30.md",
