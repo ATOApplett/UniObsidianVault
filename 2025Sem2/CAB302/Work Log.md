@@ -16,14 +16,15 @@
 | 5        | Meetings                                                                                                                                                          | 3 hours          |
 | 5        | Re:Mastered Work Log                                                                                                                                              | 1 hour + 12 mins |
 | 5        | Writing User Stories                                                                                                                                              | 59 mins          |
-| 5        | Playing Around With Code                                                                                                                                          | Aim for 1 or 2   |
-| 5        | Documentation                                                                                                                                                     | Aim for 1        |
-| 5        |                                                                                                                                                                   |                  |
-|          | *Total = Aim for 8 hours*                                                                                                                                         |                  |
-| 6        | Meetings                                                                                                                                                          | Aim for 4        |
-| 6        |                                                                                                                                                                   |                  |
-| 6        |                                                                                                                                                                   |                  |
-| 6        |                                                                                                                                                                   |                  |
+| 5        | ~~Playing Around With Code~~                                                                                                                                      | Go Week 6 :c     |
+| 5        | Documentation                                                                                                                                                     | 1 hour           |
+| 5        | Java Readiness                                                                                                                                                    | 2 hours          |
+|          | *Total = 8 hours*                                                                                                                                                 |                  |
+| 6        | Meetings                                                                                                                                                          | 3 hours          |
+| 6        | Coding something maybe work on UI in a branch                                                                                                                     |                  |
+| 6        | Java Readiness                                                                                                                                                    |                  |
+| 6        | Documentation                                                                                                                                                     |                  |
+| 6        | Setting up Maven                                                                                                                                                  |                  |
 
 # Timing Proof:
 - #Week5
