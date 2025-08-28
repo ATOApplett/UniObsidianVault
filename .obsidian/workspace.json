@@ -158,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDFS/EGB242_Assignment_1-1.pdf",
+                "file": "2025Sem2/EGB242/Report.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of EGB242_Assignment_1-1"
+              "title": "Outline of Report"
             }
           },
           {
@@ -234,10 +234,10 @@
       }
     ]
   },
-  "active": "806c709db3de5612",
+  "active": "7b8c7ef4836d8c3a",
   "lastOpenFiles": [
-    "2025Sem2/EGB242/Report.md",
     "PDFS/EGB242_Assignment_1-1.pdf",
+    "2025Sem2/EGB242/Report.md",
     "2025Sem2/CAB302/Work Log.md",
     "2025Sem2/CAB302/Test Code.md",
     "Pasted Images/Untitled 1.md",
