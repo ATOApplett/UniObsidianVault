@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b1ad29b39be30b22",
@@ -157,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025Sem2/EGB242/Report.md",
+                "file": "PDFS/EGB242_Assignment_1-1.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Report"
+              "title": "Outline of EGB242_Assignment_1-1"
             }
           },
           {
@@ -196,15 +197,52 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7b8c7ef4836d8c3a",
+  "floating": {
+    "id": "ace283f04747cb70",
+    "type": "floating",
+    "children": [
+      {
+        "id": "0024b456b8284131",
+        "type": "window",
+        "children": [
+          {
+            "id": "669e1bd44a67b593",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "806c709db3de5612",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "PDFS/EGB242_Assignment_1-1.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "EGB242_Assignment_1-1"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 691,
+        "y": 153,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "806c709db3de5612",
   "lastOpenFiles": [
+    "2025Sem2/EGB242/Report.md",
+    "PDFS/EGB242_Assignment_1-1.pdf",
     "2025Sem2/CAB302/Work Log.md",
     "2025Sem2/CAB302/Test Code.md",
     "Pasted Images/Untitled 1.md",
     "Pasted Images/Untitled.md",
-    "2025Sem2/EGB242/Report.md",
     "2025Sem2/Checklist.md",
-    "PDFS/EGB242_Assignment_1-1.pdf",
     "Pasted Images/Pasted image 20250826131707.png",
     "PDFS/EGB242 - Assignment Feed-Forward.pdf",
     "Calendar Notes/2025-08-23.md",
