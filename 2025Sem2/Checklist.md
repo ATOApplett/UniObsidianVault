@@ -30,12 +30,13 @@
 
 # **CAB302**
 - Sprints
-	- [ ] Checkpoint 1 [21/07]
+	- [x] Checkpoint 1 [21/07]
 	- [ ] Sprint 1 [05/08]
 	- [ ] Sprint 2 [??]
 	- [ ] Sprint 3 [??]
 - Individual
 - [[2025Sem2/CAB302/Work Log.md|Work Log]]
+	- Include Java Readiness in work log
 
 
 

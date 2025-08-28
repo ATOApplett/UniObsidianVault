@@ -36,6 +36,7 @@
 		- [ ] <span class="timer-p" id="uUGiLTz" data-dur="3" data-ts="1755935589">【⏳00:00:00 】</span> 
 - #Week6
 # Tasks Proof
+*INCLUDE JAVA READINESS*
 - #Week3 
 - #Week4 
 - #Week5 
