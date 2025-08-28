@@ -49,7 +49,8 @@
               "title": "Report"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,13 +172,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025Sem2/CAB302/PLANS FOR WEEK 7.md",
+                "file": "Calendar Notes/2025-08-30.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PLANS FOR WEEK 7"
+              "title": "Outline of 2025-08-30"
             }
           },
           {
@@ -247,10 +248,10 @@
       }
     ]
   },
-  "active": "548418fed3179ca2",
+  "active": "998445e493630fed",
   "lastOpenFiles": [
-    "Calendar Notes/2025-08-30.md",
     "2025Sem2/CAB302/PLANS FOR WEEK 7.md",
+    "Calendar Notes/2025-08-30.md",
     "2025Sem2/EGB242/Report.md",
     "2025Sem2/CAB302/Work Log.md",
     "2025Sem2/CAB302/Test Code.md",
