@@ -13,11 +13,12 @@
 | 4        | Research for Project                                                                                                                                              | 1 hour           |
 | 4        | Features and Requirements List                                                                                                                                    | 1 hour           |
 |          | *Total = 7 hours 30 mins*                                                                                                                                         |                  |
-| 5        | Meetings                                                                                                                                                          | 2 hours + TBA    |
+| 5        | Meetings                                                                                                                                                          | 3 hours          |
 | 5        | Re:Mastered Work Log                                                                                                                                              | 1 hour + 12 mins |
 | 5        | Writing User Stories                                                                                                                                              | 59 mins          |
 | 5        | Playing Around With Code                                                                                                                                          | Aim for 1 or 2   |
 | 5        | Documentation                                                                                                                                                     | Aim for 1        |
+| 5        |                                                                                                                                                                   |                  |
 |          | *Total = Aim for 8 hours*                                                                                                                                         |                  |
 | 6        | Meetings                                                                                                                                                          | Aim for 4        |
 | 6        |                                                                                                                                                                   |                  |
