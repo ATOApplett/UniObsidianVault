@@ -8,35 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "548418fed3179ca2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025Sem2/CAB302/PLANS FOR WEEK 7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PLANS FOR WEEK 7"
-            }
-          },
-          {
-            "id": "998445e493630fed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025Sem2/CAB302/Work Log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Work Log"
-            }
-          },
-          {
-            "id": "7b8c7ef4836d8c3a",
+            "id": "4dd5171aa5fe0fcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +21,7 @@
               "title": "Report"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b1ad29b39be30b22",
@@ -172,17 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2025Sem2/CAB302/Work Log.md",
+                "file": "Calendar Notes/2025-08-23.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Work Log"
+              "title": "Outline of 2025-08-23"
             }
           },
           {
-            "id": "dc33d46b7e0baa69",
+            "id": "996bf971caebaf81",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -211,81 +181,45 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "floating": {
-    "id": "ace283f04747cb70",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0024b456b8284131",
-        "type": "window",
-        "children": [
-          {
-            "id": "669e1bd44a67b593",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "806c709db3de5612",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "PDFS/EGB242_Assignment_1-1.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "EGB242_Assignment_1-1"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "998445e493630fed",
+  "active": "4dd5171aa5fe0fcf",
   "lastOpenFiles": [
-    "Calendar Notes/2025-08-30.md",
-    "2025Sem2/CAB302/PLANS FOR WEEK 7.md",
-    "2025Sem2/EGB242/Report.md",
-    "2025Sem2/CAB302/Work Log.md",
-    "2025Sem2/CAB302/Test Code.md",
-    "2025Sem2/Checklist.md",
-    "PDFS/EGB242_Assignment_1-1.pdf",
-    "Pasted Images/Untitled 1.md",
+    "2025Sem2/QUT010/Assignment.md",
     "Pasted Images/Untitled.md",
+    "Pasted Images/Untitled 1.md",
     "Pasted Images/Pasted image 20250826131707.png",
-    "PDFS/EGB242 - Assignment Feed-Forward.pdf",
-    "Calendar Notes/2025-08-23.md",
-    "PDFS",
-    "README.md",
-    "PDFS/EGB242 - Sample Report-1-1.pdf",
-    "2025Sem2/EGB348/Studios/Studio 1.md",
     "Pasted Images/Pasted image 20250825122814.png",
     "Pasted Images/Pasted image 20250825122749.png",
     "Pasted Images/Pasted image 20250825122732.png",
-    "Calendar Notes/2025-08-29.md",
-    "2025Sem2/CAB302/test.md",
-    "2025Sem2/QUT010/Assignment.md",
     "Pasted Images/Pasted image 20250823173442.png",
     "Pasted Images/Pasted image 20250823173354.png",
     "Pasted Images/Pasted image 20250823172904.png",
     "Pasted Images/Pasted image 20250823172711.png",
     "Pasted Images/Pasted image 20250823172516.png",
     "Pasted Images/Pasted image 20250823172419.png",
+    "PDFS/EGB242_Assignment_1-1.pdf",
+    "PDFS/EGB242 - Sample Report-1-1.pdf",
+    "PDFS/EGB242 - Assignment Feed-Forward.pdf",
+    "PDFS",
+    "Calendar Notes/2025-08-30.md",
+    "Calendar Notes/2025-08-29.md",
+    "2025Sem2/EGB348/Studios/Studio 1.md",
+    "2025Sem2/EGB348/Studios",
+    "2025Sem2/EGB242/Report.md",
+    "2025Sem2/CAB302/Test Code.md",
+    "2025Sem2/CAB302/PLANS FOR WEEK 7.md",
+    "Calendar Notes/2025-08-23.md",
     "Calendar Notes/2025-08-24.md",
+    "2025Sem2/Checklist.md",
     "Pasted Images/Untitled.base",
     "Calendar Notes",
+    "2025Sem2/CAB302/Work Log.md",
+    "2025Sem2/EGB348/Assignment 1.md",
     "2025Sem2/CAB302",
     "Pasted Images",
     "HTML import/qut010a1.md",
     "HTML import/Attachments",
-    "HTML import",
+    "2025Sem2/EGB242/Studios/Studio 1.md",
+    "README.md",
     "2025Sem2.md"
   ]
 }
