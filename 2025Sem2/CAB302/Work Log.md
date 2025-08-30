@@ -1,30 +1,29 @@
-| **Week** | **Task**                                                                                                                                                          | **Time**         |
-| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| 3        | Meetings                                                                                                                                                          | 4 hours          |
-| 3        | Completed Repo Activity                                                                                                                                           | 1 hour           |
-| 3        | [Setting Up and Learning Jira](https://softwarecab302.atlassian.net/jira/software/projects/SCRUM/summary)                                                         | 1 hour           |
-| 3        | Documentation                                                                                                                                                     | 1 hour           |
-| 3        | Setting Up IntelliJ + Compiling and Committing on Repo                                                                                                            | 1 hour           |
-|          | *TOTAL = 8 hours*                                                                                                                                                 |                  |
-| 4        | Meetings + Tute                                                                                                                                                   | 3 hours          |
-| 4        | [Miro Board Setting Up + Brainstorming](https://miro.com/app/board/uXjVJTioquY=/)                                                                                 | 1 hour           |
-| 4        | [Setting Up Basic Work Log for Checkpoint 1](https://docs.google.com/document/d/1L9IiitUAt8Bo-wTfecQ8EK1HEUp3s1QUE8nfyZk508M/edit?tab=t.0#heading=h.scivdxegvvoe) | 1 hour           |
-| 4        | Basic Outline for Project                                                                                                                                         | 30 mins          |
-| 4        | Research for Project                                                                                                                                              | 1 hour           |
-| 4        | Features and Requirements List                                                                                                                                    | 1 hour           |
-|          | *Total = 7 hours 30 mins*                                                                                                                                         |                  |
-| 5        | Meetings                                                                                                                                                          | 3 hours          |
-| 5        | Re:Mastered Work Log                                                                                                                                              | 1 hour + 12 mins |
-| 5        | Writing User Stories                                                                                                                                              | 59 mins          |
-| 5        | ~~Playing Around With Code~~                                                                                                                                      | Go Week 6 :c     |
-| 5        | Documentation                                                                                                                                                     | 1 hour           |
-| 5        | Java Readiness                                                                                                                                                    | 2 hours          |
-|          | *Total = 8 hours*                                                                                                                                                 |                  |
-| 6        | Meetings                                                                                                                                                          | 3 hours          |
-| 6        | Coding something maybe work on UI in a branch                                                                                                                     |                  |
-| 6        | Java Readiness                                                                                                                                                    |                  |
-| 6        | Documentation                                                                                                                                                     |                  |
-| 6        | Setting up Maven                                                                                                                                                  |                  |
+| **Week** | **Task**                                                                                                                                                          | **Time**          |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| 3        | Meetings                                                                                                                                                          | 4 hours           |
+| 3        | Completed Repo Activity                                                                                                                                           | 1 hour            |
+| 3        | [Setting Up and Learning Jira](https://softwarecab302.atlassian.net/jira/software/projects/SCRUM/summary)                                                         | 1 hour            |
+| 3        | Documentation                                                                                                                                                     | 1 hour            |
+| 3        | Setting Up IntelliJ + Compiling and Committing on Repo                                                                                                            | 1 hour            |
+|          | *TOTAL = 8 hours*                                                                                                                                                 |                   |
+| 4        | Meetings + Tute                                                                                                                                                   | 3 hours           |
+| 4        | [Miro Board Setting Up + Brainstorming](https://miro.com/app/board/uXjVJTioquY=/)                                                                                 | 1 hour            |
+| 4        | [Setting Up Basic Work Log for Checkpoint 1](https://docs.google.com/document/d/1L9IiitUAt8Bo-wTfecQ8EK1HEUp3s1QUE8nfyZk508M/edit?tab=t.0#heading=h.scivdxegvvoe) | 1 hour            |
+| 4        | Basic Outline for Project                                                                                                                                         | 30 mins           |
+| 4        | Research for Project                                                                                                                                              | 1 hour            |
+| 4        | Features and Requirements List                                                                                                                                    | 1 hour            |
+|          | *Total = 7 hours 30 mins*                                                                                                                                         |                   |
+| 5        | Meetings                                                                                                                                                          | 3 hours           |
+| 5        | Re:Mastered Work Log                                                                                                                                              | 1 hour + 12 mins  |
+| 5        | Writing User Stories                                                                                                                                              | 59 mins           |
+| 5        | Figma + Draw.io UI                                                                                                                                                |                   |
+| 5        | Documentation                                                                                                                                                     | 1 hour            |
+|          | *Total = 8 hours*                                                                                                                                                 |                   |
+| 6        | Meetings                                                                                                                                                          | 3 hours           |
+| 6        | Testing UI in Project                                                                                                                                             | 3 hours + 30 mins |
+|          | Creating                                                                                                                                                          |                   |
+| 6        | Documentation                                                                                                                                                     |                   |
+| 6        | Setting up Maven                                                                                                                                                  |                   |
 
 # Timing Proof:
 - #Week5
@@ -32,13 +31,11 @@
 		- [x] <span class="timer-p" id="uUFXEfh" data-dur="4367" data-ts="1755934931">【⏳01:12:47 】</span> 
 	- Writing User Stories
 		- [x] <span class="timer-p" id="uUGg3C7" data-dur="3575" data-ts="1755938517">【⏳00:59:35 】</span> 
-	- Testing Around With Code
-		- [ ] <span class="timer-p" id="uUGgpJT" data-dur="13" data-ts="1755935037">【⏳00:00:00 】</span>
-	- Documentation
-		- [ ] <span class="timer-p" id="uUGiLTz" data-dur="3" data-ts="1755935589">【⏳00:00:00 】</span> 
-	- Figma UI
-		- [ ] <span class="timer-r" id="uVjNdds" data-dur="12616" data-ts="1756531792">【⏳03:30:16 】</span> 
+	- Figma + Draw.io UI
+		- [ ] <span class="timer-r" id="uVkEDuy" data-dur="250" data-ts="1756532102">【⏳00:04:10 】</span> 
 - #Week6
+	- Testing UI in Project
+		- [x] <span class="timer-p" id="uVjNdds" data-dur="12624" data-ts="1756531800">【⏳03:30:24 】</span> 
 # Tasks Proof
 *INCLUDE JAVA READINESS*
 - #Week3 
