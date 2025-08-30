@@ -234,8 +234,21 @@
                   "icon": "lucide-file-text",
                   "title": "EGB242_Assignment_1-1"
                 }
+              },
+              {
+                "id": "334af71af0eaadca",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.9.12"
+                  },
+                  "icon": "lucide-book-up",
+                  "title": "Release Notes 1.9.12"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -248,7 +261,7 @@
       }
     ]
   },
-  "active": "998445e493630fed",
+  "active": "334af71af0eaadca",
   "lastOpenFiles": [
     "Calendar Notes/2025-08-30.md",
     "2025Sem2/CAB302/PLANS FOR WEEK 7.md",
