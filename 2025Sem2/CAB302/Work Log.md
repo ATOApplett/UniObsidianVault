@@ -37,7 +37,7 @@
 	- Documentation
 		- [ ] <span class="timer-p" id="uUGiLTz" data-dur="3" data-ts="1755935589">【⏳00:00:00 】</span> 
 	- Figma UI
-		- [ ] <span class="timer-r" id="uVjNdds" data-dur="9884" data-ts="1756529060">【⏳02:44:44 】</span> 
+		- [ ] <span class="timer-r" id="uVjNdds" data-dur="10187" data-ts="1756529363">【⏳02:49:47 】</span> 
 - #Week6
 # Tasks Proof
 *INCLUDE JAVA READINESS*
