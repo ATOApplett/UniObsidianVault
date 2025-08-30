@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Report"
             }
+          },
+          {
+            "id": "298fd577787edb4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -124,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calendar Notes/2025-08-23.md",
+                "file": "2025Sem2/CAB302/Work Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-08-23"
+              "title": "Backlinks for Work Log"
             }
           },
           {
@@ -143,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Calendar Notes/2025-08-23.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-08-23"
+              "title": "Outgoing links from conflict-files-obsidian-git"
             }
           },
           {
@@ -192,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,62 +225,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "floating": {
-    "id": "ace283f04747cb70",
-    "type": "floating",
-    "children": [
-      {
-        "id": "0024b456b8284131",
-        "type": "window",
-        "children": [
-          {
-            "id": "669e1bd44a67b593",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "806c709db3de5612",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "PDFS/EGB242_Assignment_1-1.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "EGB242_Assignment_1-1"
-                }
-              },
-              {
-                "id": "334af71af0eaadca",
-                "type": "leaf",
-                "state": {
-                  "type": "release-notes",
-                  "state": {
-                    "currentVersion": "1.9.12"
-                  },
-                  "icon": "lucide-book-up",
-                  "title": "Release Notes 1.9.12"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 960,
-        "y": 0,
-        "width": 960,
-        "height": 1080,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "334af71af0eaadca",
+  "active": "298fd577787edb4c",
   "lastOpenFiles": [
+    "2025Sem2/CAB302/Work Log.md",
+    "conflict-files-obsidian-git.md",
     "Calendar Notes/2025-08-30.md",
     "2025Sem2/CAB302/PLANS FOR WEEK 7.md",
     "2025Sem2/EGB242/Report.md",
-    "2025Sem2/CAB302/Work Log.md",
     "2025Sem2/CAB302/Test Code.md",
     "2025Sem2/Checklist.md",
     "PDFS/EGB242_Assignment_1-1.pdf",
