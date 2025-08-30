@@ -32,7 +32,7 @@
 	- Writing User Stories
 		- [x] <span class="timer-p" id="uUGg3C7" data-dur="3575" data-ts="1755938517">【⏳00:59:35 】</span> 
 	- Figma + Draw.io UI
-		- [ ] <span class="timer-r" id="uVkEDuy" data-dur="11249" data-ts="1756543101">【⏳03:07:29 】</span> 
+		- [ ] <span class="timer-r" id="uVkEDuy" data-dur="11555" data-ts="1756543407">【⏳03:12:35 】</span> 
 - #Week6
 	- Testing UI in Project
 		- [x] <span class="timer-p" id="uVjNdds" data-dur="12624" data-ts="1756531800">【⏳03:30:24 】</span> 
