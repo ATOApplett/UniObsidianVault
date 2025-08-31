@@ -225,47 +225,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "floating": {
-    "id": "75796e1a4350bb18",
-    "type": "floating",
-    "children": [
-      {
-        "id": "116bcfa124e338d8",
-        "type": "window",
-        "children": [
-          {
-            "id": "4781059c8547889d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "406abfd4800fceed",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "PDFS/EGB242_Assignment_1-1.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "EGB242_Assignment_1-1"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1280,
-        "y": -319,
-        "width": 1280,
-        "height": 1441,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "406abfd4800fceed",
+  "active": "7b8c7ef4836d8c3a",
   "lastOpenFiles": [
-    "2025Sem2/EGB242/Report.md",
     "PDFS/EGB242_Assignment_1-1.pdf",
+    "2025Sem2/EGB242/Report.md",
     "2025Sem2/CAB302/Work Log.md",
     "2025Sem2/CAB302/PLANS FOR WEEK 7.md",
     "Calendar Notes/2025-08-30.md",
