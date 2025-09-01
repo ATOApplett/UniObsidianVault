@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025Sem2/Checklist.md",
+                "file": "2025Sem2/EGB242/Report.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Checklist"
+              "title": "Report"
             }
           }
         ],
@@ -196,15 +196,52 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6206aec33322debe",
+  "floating": {
+    "id": "aa5dcedb14700341",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9ce7f657d733cb05",
+        "type": "window",
+        "children": [
+          {
+            "id": "13ba0d54f1bd7876",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6f909b9f55e833d0",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "PDFS/EGB242_Assignment_1-1.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "EGB242_Assignment_1-1"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1280,
+        "y": -319,
+        "width": 1280,
+        "height": 1441,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "6f909b9f55e833d0",
   "lastOpenFiles": [
+    "2025Sem2/EGB242/Report.md",
+    "PDFS/EGB242_Assignment_1-1.pdf",
+    "2025Sem2/Checklist.md",
     "2025Sem2/CAB302/Work Log.md",
     "2025Sem2/CAB302/PLANS FOR WEEK 7.md",
     "2025Sem2/CAB302/Java Readiness.md",
-    "2025Sem2/Checklist.md",
     "Calendar Notes/2025-08-30.md",
-    "2025Sem2/EGB242/Report.md",
-    "PDFS/EGB242_Assignment_1-1.pdf",
     "conflict-files-obsidian-git.md",
     "Pasted Images/Untitled 1.md",
     "Pasted Images/Untitled.md",
