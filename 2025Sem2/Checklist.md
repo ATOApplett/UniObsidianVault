@@ -1,7 +1,7 @@
 #TODO Assignments
 # **EGB348**
 - Studios `20%`
-	- [ ] [[Studio 1|Studio 1]] [due 29/08] `5%`
+	- [x] [[Studio 1|Studio 1]] [due 29/08] `5%`
 	
 		- [ ] Q1 (Hand Calculations)
 			- [ ] Part 1
@@ -13,7 +13,7 @@
 	- [ ] Studio 3 [due ] `5%`
 	- [ ] Studio 4 [due ] `5%`
 - Practicals `40%`
-	- [ ] Practical 1 [29/08] `10%`
+	- [ ] Practical 1 [19/08] `10%`
 	- [ ] Practical 2 `10%`
 	- [ ] Practical 3 `10%`
 	- [ ] Practical 4 `10%`
@@ -31,7 +31,7 @@
 # **CAB302**
 - Sprints
 	- [x] Checkpoint 1 [21/07]
-	- [ ] Sprint 1 [05/08]
+	- [x] Sprint 1 [05/08]
 	- [ ] Sprint 2 [??]
 	- [ ] Sprint 3 [??]
 - Individual

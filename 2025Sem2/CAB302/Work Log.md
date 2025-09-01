@@ -24,6 +24,7 @@
 | 6        | Creating Junit Tests                                                                                                                                              |                   |
 | 6        | Documentation                                                                                                                                                     |                   |
 | 6        | Setting up Maven                                                                                                                                                  |                   |
+| 6        | Java Readiness                                                                                                                                                    |                   |
 
 # Timing Proof:
 - #Week5
