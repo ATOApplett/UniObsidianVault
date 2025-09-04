@@ -47,6 +47,11 @@
 	- ![[Pasted image 20250904153819.png]]
 	- ![[Pasted image 20250904153828.png]]
 	- ![[Pasted image 20250904153754.png]]
+	- ![[Pasted image 20250904171451.png]]
+	- ![[Pasted image 20250904171501.png]]
+	- ![[Pasted image 20250904171508.png]]
+	- ![[Pasted image 20250904171522.png]]
+	- ![[Pasted image 20250904171530.png]]
 	- ![[Pasted image 20250904153915.png]]
 	- ![[Pasted image 20250904153923.png]]
 - #Week6 
