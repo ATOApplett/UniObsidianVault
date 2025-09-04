@@ -16,15 +16,15 @@
 | 5        | Meetings                                                                                                                                                          | 3 hours          |
 | 5        | Re:Mastered Work Log                                                                                                                                              | 1 hour + 32 mins |
 | 5        | Writing User Stories                                                                                                                                              | 1 hour + 24 mins |
-| 5        | Figma                                                                                                                                                             | 1 hour + 22 mins |
+| 5        | Figma                                                                                                                                                             | 1 hour + 17 mins |
 | 5        | Documentation                                                                                                                                                     | 1 hour           |
 |          | *Total = 8 hours 10 mins*                                                                                                                                         |                  |
 | 6        | Meetings                                                                                                                                                          | 3 hours          |
 | 6        | Tasks in Project                                                                                                                                                  | 2 hours          |
 | 6        | Documentation                                                                                                                                                     | 1 hour           |
-| 6        | Java Readiness                                                                                                                                                    | 5 hours 30 mins  |
-|          | Total                                                                                                                                                             |                  |
-| 7        | Creating Junit Tests                                                                                                                                              |                  |
+| 6        | Java Readiness                                                                                                                                                    | 5 hours 36 mins  |
+|          | *Total = 11 hours 36 mins*                                                                                                                                        |                  |
+| 7        |                                                                                                                                                                   |                  |
 
 # Timing Proof:
 - #Week5
@@ -33,10 +33,10 @@
 	- Writing User Stories
 		- [x] <span class="timer-p" id="uUGg3C7" data-dur="3575" data-ts="1755938517">【⏳01:24:35 】</span> 
 	- Figma
-		- [ ] <span class="timer-p" id="uVkEDuy" data-dur="12337" data-ts="1756544189">【⏳01:22:37 】</span> 
+		- [x] <span class="timer-p" id="uVkEDuy" data-dur="12337" data-ts="1756544189">【⏳01:17:37 】</span> 
 - #Week6
 	- Java Readiness
-		- [x] <span class="timer-p" id="uVjNdds" data-dur="12624" data-ts="1756531800">【⏳05:30:24 】</span> 
+		- [x] <span class="timer-p" id="uVjNdds" data-dur="12624" data-ts="1756531800">【⏳05:36:24 】</span> 
 # Tasks Proof
 *INCLUDE JAVA READINESS*
 - #Week3 
