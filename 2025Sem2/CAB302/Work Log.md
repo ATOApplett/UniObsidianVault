@@ -21,11 +21,11 @@
 | 5        | Documentation                                                                                                                                                     | 1 hour              |
 |          | *Total = 8 hours 10 mins*                                                                                                                                         |                     |
 | 6        | Meetings                                                                                                                                                          | 2 hours and 35 mins |
-| 6        | Tasks in Project                                                                                                                                                  | 2 hours             |
 | 6        | Java Readiness                                                                                                                                                    | 5 hours 36 mins     |
 | 6        | Documentation                                                                                                                                                     | 1 hour              |
-|          | *Total = 12 hours 11 mins*                                                                                                                                        |                     |
+|          | *Total = 10 hours 11 mins*                                                                                                                                        |                     |
 | 7        |                                                                                                                                                                   |                     |
+|          |                                                                                                                                                                   |                     |
 
 # Timing Proof
 - #Week5
