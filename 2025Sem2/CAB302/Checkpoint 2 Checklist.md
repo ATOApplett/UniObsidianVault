@@ -7,3 +7,11 @@
 - [ ] UI (Fully created low/*and or* medium fidelity prototypes)
 - [ ] Sprints (Detailed completion of the Sprint 2 and Planning of Sprint 3)
 - [ ] Future Research (If anything highly technical is required in the app show research for it)
+
+
+# User stories
+- Split up the functionality into groups (gameplay, user management, and system functions)
+	- then assigned to each other
+	- triple up in gameplay so we split it up further (gamemodes (i.e. flashcards) and rewards)
+- After everyone wrote 10 user stories we reviewed and picked out at least 5 that were very high priority
+- After picking out and reviewing user stories we then linked them to a core functionality
