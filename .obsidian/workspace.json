@@ -103,7 +103,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,7 +211,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "7b6b5051d3c8d10c",
+  "active": "ad05ddd57087d643",
   "lastOpenFiles": [
     "Pasted Images/Pasted image 20250904171530.png",
     "2025Sem2/CAB302/Checkpoint 2 Checklist.md",
