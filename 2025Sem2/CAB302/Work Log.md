@@ -17,13 +17,14 @@
 | 5        | Re:Mastered Work Log                                                                                                                                              | 1 hour + 32 mins |
 | 5        | Writing User Stories                                                                                                                                              | 1 hour + 24 mins |
 | 5        | Figma                                                                                                                                                             | 1 hour + 17 mins |
+| 5        | Reviewing User Stories                                                                                                                                            | 1 hour           |
 | 5        | Documentation                                                                                                                                                     | 1 hour           |
-|          | *Total = 8 hours 10 mins*                                                                                                                                         |                  |
+|          | *Total = 9 hours 10 mins*                                                                                                                                         |                  |
 | 6        | Meetings                                                                                                                                                          | 3 hours          |
 | 6        | Tasks in Project                                                                                                                                                  | 2 hours          |
-| 6        | Documentation                                                                                                                                                     | 1 hour           |
 | 6        | Java Readiness                                                                                                                                                    | 5 hours 36 mins  |
-|          | *Total = 11 hours 36 mins*                                                                                                                                        |                  |
+| 6        | Documentation                                                                                                                                                     | 1 hour           |
+|          | *Total = 12 hours 36 mins*                                                                                                                                        |                  |
 | 7        |                                                                                                                                                                   |                  |
 
 # Timing Proof:
@@ -42,7 +43,11 @@
 - #Week3 
 - #Week4 
 - #Week5 
-	- 
+	- ![[Pasted image 20250904153819.png]]
+	- ![[Pasted image 20250904153828.png]]
+	- ![[Pasted image 20250904153754.png]]
+	- ![[Pasted image 20250904153915.png]]
+	- ![[Pasted image 20250904153923.png]]
 # Meetings Proof
 
 - #Week3 
