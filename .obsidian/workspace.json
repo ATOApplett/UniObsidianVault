@@ -196,47 +196,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "floating": {
-    "id": "15f40d2d8d2ac608",
-    "type": "floating",
-    "children": [
-      {
-        "id": "51b7275e096f0513",
-        "type": "window",
-        "children": [
-          {
-            "id": "ae244e38b5e0980e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "60fc7d4589923fb0",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "PDFS/EGB242_Assignment_1-1.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "EGB242_Assignment_1-1"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1280,
-        "y": -319,
-        "width": 1280,
-        "height": 1441,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "60fc7d4589923fb0",
+  "active": "7b6b5051d3c8d10c",
   "lastOpenFiles": [
-    "2025Sem2/EGB242/Report.md",
     "PDFS/EGB242_Assignment_1-1.pdf",
+    "2025Sem2/EGB242/Report.md",
     "2025Sem2/CAB302/Work Log.md",
     "2025Sem2/CAB302/Checkpoint 2 Checklist.md",
     "Pasted Images/Pasted image 20250904181509.png",
