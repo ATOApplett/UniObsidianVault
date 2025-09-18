@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Week7",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -182,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {

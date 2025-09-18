@@ -38,7 +38,6 @@
 | 8        | Video                                                                                                                                                             | 1 hour        |
 | 8        | Documentation                                                                                                                                                     | 30 mins       |
 |          | *Total = 12 hours 46 mins*                                                                                                                                        |               |
-|          |                                                                                                                                                                   |               |
 
 # Timing Proof
 - #Week5
