@@ -93,6 +93,7 @@
 	- ![[Pasted image 20250918154909.png]]
 	- ![[Pasted image 20250918180148.png]]
 	- ![[Pasted image 20250918175311.png]]
+- ![[Pasted image 20250918180907.png]]
 - 
 # Meetings Proof
 
