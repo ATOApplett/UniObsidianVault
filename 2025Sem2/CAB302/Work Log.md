@@ -35,9 +35,9 @@
 | 8        | Visual Flashcard UI                                                                                                                                               | 3 hour 51 min |
 | 8        | Simple Flashcard UI                                                                                                                                               | 1 hour 16 min |
 | 8        | Flashcard functionality                                                                                                                                           | 1 hour 43 min |
-| 8        | Video                                                                                                                                                             |               |
+| 8        | Video                                                                                                                                                             | 1 hour        |
 | 8        | Documentation                                                                                                                                                     | 30 mins       |
-|          | *Total = 11 hours 46 mins*                                                                                                                                        |               |
+|          | *Total = 12 hours 46 mins*                                                                                                                                        |               |
 |          |                                                                                                                                                                   |               |
 
 # Timing Proof
