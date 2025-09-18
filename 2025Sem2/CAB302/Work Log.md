@@ -29,12 +29,13 @@
 | 7        | US06 - Timed Quiz UI                                                                                                                                              | 6 hour 44 min |
 | 7        | Documentation                                                                                                                                                     | 30 mins       |
 |          | *Total = 8 hours 44 mins*                                                                                                                                         |               |
-| 8        | Meetings                                                                                                                                                          | 1 hour 30 min |
+| 8        | Meetings                                                                                                                                                          | 1 hour        |
 | 8        | Remade UI for timed-quiz                                                                                                                                          | 3 hour 26 min |
 | 8        | Visual Flashcard UI                                                                                                                                               | 3 hour 51 min |
 | 8        | Simple Flashcard UI                                                                                                                                               | 1 hour 16 min |
+|          |                                                                                                                                                                   |               |
 | 8        | Documentation                                                                                                                                                     | 30 mins       |
-|          | *Total = 10 hours 33 mins*                                                                                                                                        |               |
+|          | *Total = 10 hours 3 mins*                                                                                                                                         |               |
 |          |                                                                                                                                                                   |               |
 
 # Timing Proof
@@ -100,4 +101,8 @@
 	- ![[Pasted image 20250904154058.png]]
 	- ![[Pasted image 20250904154105.png]]
 - #Week7
-- #
+	- ![[Pasted image 20250918131814.png]]
+	- ![[Pasted image 20250918131820.png]]
+- #Week8 
+	- ![[Pasted image 20250918131828.png]]
+- 

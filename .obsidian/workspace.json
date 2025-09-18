@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Week7",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -198,6 +199,9 @@
   },
   "active": "c05c2d499b8b0f22",
   "lastOpenFiles": [
+    "Pasted image 20250918131828.png",
+    "Pasted image 20250918131820.png",
+    "Pasted image 20250918131814.png",
     "Pasted image 20250918131351.png",
     "Pasted image 20250918131243.png",
     "2025Sem2/CAB302/PLANS FOR WEEK 9.md",
@@ -212,9 +216,6 @@
     "Pasted Images/Pasted image 20250904171508.png",
     "Pasted Images/Pasted image 20250904171501.png",
     "Pasted Images/Pasted image 20250904171451.png",
-    "Pasted Images/Pasted image 20250904154311.png",
-    "Pasted Images/Pasted image 20250904154105.png",
-    "Pasted Images/Pasted image 20250904154058.png",
     "2025Sem2/Checklist.md",
     "2025Sem2/CAB302/Java Readiness.md",
     "Calendar Notes/2025-08-30.md",
