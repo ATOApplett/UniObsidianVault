@@ -1,46 +1,51 @@
 
-| **Week** | **Task**                                                                                                                                                          | **Time**      |
-| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| 3        | [Meetings](https://docs.google.com/document/d/1gkCwcivTY8WFMRZAxPlr-ziVz1jwtMRoSO92oJ2MMik/edit?tab=t.auqt9x8kmcyx)                                               | 4 hours       |
-| 3        | Completed Repo Activity                                                                                                                                           | 1 hour        |
-| 3        | [Setting Up and Learning Jira](https://softwarecab302.atlassian.net/jira/software/projects/SCRUM/summary)                                                         | 1 hour        |
-| 3        | Documentation                                                                                                                                                     | 1 hour        |
-| 3        | Setting Up IntelliJ + Committing on Repo                                                                                                                          | 1 hour        |
-|          | *TOTAL = 8 hours*                                                                                                                                                 |               |
-| 4        | [Meetings](https://docs.google.com/document/d/1gkCwcivTY8WFMRZAxPlr-ziVz1jwtMRoSO92oJ2MMik/edit?tab=t.auqt9x8kmcyx)                                               | 3 hours       |
-| 4        | [Miro Board Setting Up + Brainstorming](https://miro.com/app/board/uXjVJTioquY=/)                                                                                 | 1 hour        |
-| 4        | [Setting Up Basic Work Log for Checkpoint 1](https://docs.google.com/document/d/1L9IiitUAt8Bo-wTfecQ8EK1HEUp3s1QUE8nfyZk508M/edit?tab=t.0#heading=h.scivdxegvvoe) | 1 hour        |
-| 4        | Basic Outline for Project                                                                                                                                         | 30 mins       |
-| 4        | Research for Project                                                                                                                                              | 1 hour        |
-| 4        | Features and Requirements List                                                                                                                                    | 1 hour        |
-|          | *Total = 7 hours 30 mins*                                                                                                                                         |               |
-| 5        | [Meetings](https://docs.google.com/document/d/1gkCwcivTY8WFMRZAxPlr-ziVz1jwtMRoSO92oJ2MMik/edit?tab=t.auqt9x8kmcyx)                                               | 2 hours       |
-| 5        | Re:Mastered Work Log                                                                                                                                              | 1 hour 32 min |
-| 5        | [Writing User Stories](https://docs.google.com/document/d/1c3LmV5Zou0mXkiROzsUmEAivXU5ZLCZ5GgOTLzsInWs/edit?tab=t.vjbt3tbwft3f)                                   | 1 hour 24 min |
-| 5        | [Figma](https://www.figma.com/design/n1GrlbDZGICa82uGU8AOmn/Cab302-Medium-Fidelity-designs?node-id=0-1&p=f&t=8kJAulELcHfmf7rX-0)                                  | 1 hour 17 min |
-| 5        | [Reviewing User Stories](https://docs.google.com/document/d/1c3LmV5Zou0mXkiROzsUmEAivXU5ZLCZ5GgOTLzsInWs/edit?tab=t.pc0t8jl11cns)                                 | 1 hour        |
-| 5        | Documentation                                                                                                                                                     | 1 hour        |
-|          | *Total = 8 hours 10 mins*                                                                                                                                         |               |
-| 6        | [Meetings](https://docs.google.com/document/d/1gkCwcivTY8WFMRZAxPlr-ziVz1jwtMRoSO92oJ2MMik/edit?tab=t.auqt9x8kmcyx)                                               | 2 hour 35 min |
-| 6        | Java Readiness                                                                                                                                                    | 5 hour 36 min |
-| 6        | Documentation                                                                                                                                                     | 1 hour        |
-|          | *Total = 10 hours 11 mins*                                                                                                                                        |               |
-| 7        | Meetings                                                                                                                                                          | 1 hour 30 min |
-| 7        | US06 - Timed Quiz UI                                                                                                                                              | 6 hour 44 min |
-| 7        | Unit Testing                                                                                                                                                      | 1 hour        |
-| 7        | Documentation                                                                                                                                                     | 30 mins       |
-|          | *Total = 9 hours 44 mins*                                                                                                                                         |               |
-| 8        | Meetings                                                                                                                                                          | 1 hour        |
-| 8        | Remade UI for timed-quiz                                                                                                                                          | 3 hour 26 min |
-| 8        | Visual Flashcard UI                                                                                                                                               | 3 hour 51 min |
-| 8        | Simple Flashcard UI                                                                                                                                               | 1 hour 16 min |
-| 8        | Flashcard functionality                                                                                                                                           | 1 hour 43 min |
-| 8        | Video                                                                                                                                                             | 1 hour        |
-| 8        | Documentation                                                                                                                                                     | 30 mins       |
-|          | *Total = 12 hours 46 mins*                                                                                                                                        |               |
-| 9        |                                                                                                                                                                   |               |
-| 9        |                                                                                                                                                                   |               |
-|          |                                                                                                                                                                   |               |
+| **Week** | **Task**                                                                                                                                                          | **Time**       |
+| -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| 3        | [Meetings](https://docs.google.com/document/d/1gkCwcivTY8WFMRZAxPlr-ziVz1jwtMRoSO92oJ2MMik/edit?tab=t.auqt9x8kmcyx)                                               | 4 hours        |
+| 3        | Completed Repo Activity                                                                                                                                           | 1 hour         |
+| 3        | [Setting Up and Learning Jira](https://softwarecab302.atlassian.net/jira/software/projects/SCRUM/summary)                                                         | 1 hour         |
+| 3        | Documentation                                                                                                                                                     | 1 hour         |
+| 3        | Setting Up IntelliJ + Committing on Repo                                                                                                                          | 1 hour         |
+|          | *TOTAL = 8 hours*                                                                                                                                                 |                |
+| 4        | [Meetings](https://docs.google.com/document/d/1gkCwcivTY8WFMRZAxPlr-ziVz1jwtMRoSO92oJ2MMik/edit?tab=t.auqt9x8kmcyx)                                               | 3 hours        |
+| 4        | [Miro Board Setting Up + Brainstorming](https://miro.com/app/board/uXjVJTioquY=/)                                                                                 | 1 hour         |
+| 4        | [Setting Up Basic Work Log for Checkpoint 1](https://docs.google.com/document/d/1L9IiitUAt8Bo-wTfecQ8EK1HEUp3s1QUE8nfyZk508M/edit?tab=t.0#heading=h.scivdxegvvoe) | 1 hour         |
+| 4        | Basic Outline for Project                                                                                                                                         | 30 mins        |
+| 4        | Research for Project                                                                                                                                              | 1 hour         |
+| 4        | Features and Requirements List                                                                                                                                    | 1 hour         |
+|          | *Total = 7 hours 30 mins*                                                                                                                                         |                |
+| 5        | [Meetings](https://docs.google.com/document/d/1gkCwcivTY8WFMRZAxPlr-ziVz1jwtMRoSO92oJ2MMik/edit?tab=t.auqt9x8kmcyx)                                               | 2 hours        |
+| 5        | Re:Mastered Work Log                                                                                                                                              | 1 hour 32 min  |
+| 5        | [Writing User Stories](https://docs.google.com/document/d/1c3LmV5Zou0mXkiROzsUmEAivXU5ZLCZ5GgOTLzsInWs/edit?tab=t.vjbt3tbwft3f)                                   | 1 hour 24 min  |
+| 5        | [Figma](https://www.figma.com/design/n1GrlbDZGICa82uGU8AOmn/Cab302-Medium-Fidelity-designs?node-id=0-1&p=f&t=8kJAulELcHfmf7rX-0)                                  | 1 hour 17 min  |
+| 5        | [Reviewing User Stories](https://docs.google.com/document/d/1c3LmV5Zou0mXkiROzsUmEAivXU5ZLCZ5GgOTLzsInWs/edit?tab=t.pc0t8jl11cns)                                 | 1 hour         |
+| 5        | Documentation                                                                                                                                                     | 1 hour         |
+|          | *Total = 8 hours 10 mins*                                                                                                                                         |                |
+| 6        | [Meetings](https://docs.google.com/document/d/1gkCwcivTY8WFMRZAxPlr-ziVz1jwtMRoSO92oJ2MMik/edit?tab=t.auqt9x8kmcyx)                                               | 2 hour 35 min  |
+| 6        | Java Readiness                                                                                                                                                    | 5 hour 36 min  |
+| 6        | Documentation                                                                                                                                                     | 1 hour         |
+|          | *Total = 10 hours 11 mins*                                                                                                                                        |                |
+| 7        | Meetings                                                                                                                                                          | 1 hour 30 min  |
+| 7        | US06 - Timed Quiz UI                                                                                                                                              | 6 hour 44 min  |
+| 7        | Unit Testing                                                                                                                                                      | 1 hour         |
+| 7        | Documentation                                                                                                                                                     | 30 mins        |
+|          | *Total = 9 hours 44 mins*                                                                                                                                         |                |
+| 8        | Meetings                                                                                                                                                          | 1 hour         |
+| 8        | Remade UI for timed-quiz                                                                                                                                          | 3 hour 26 min  |
+| 8        | Visual Flashcard UI                                                                                                                                               | 3 hour 51 min  |
+| 8        | Simple Flashcard UI                                                                                                                                               | 1 hour 16 min  |
+| 8        | Flashcard functionality                                                                                                                                           | 1 hour 43 min  |
+| 8        | Video                                                                                                                                                             | 1 hour         |
+| 8        | Documentation                                                                                                                                                     | 30 mins        |
+|          | *Total = 12 hours 46 mins*                                                                                                                                        |                |
+| 9        | Meetings                                                                                                                                                          | 3 Hours        |
+| 9        | Bug fixing toolbar UI for timed-quiz                                                                                                                              | 3 hours 16 min |
+| 9        | Restructuring fxml to suit UI                                                                                                                                     |                |
+| 9        |                                                                                                                                                                   |                |
+| 9        | Created UI for Reset Password Page                                                                                                                                | 2 hours 54 min |
+| 9        | Created UI for Progress Page                                                                                                                                      | 2 hour         |
+| 9        | Documentation                                                                                                                                                     | 1 hour         |
+|          | *Total = 16 hours*                                                                                                                                                |                |
 
 # Timing Proof
 - #Week5
