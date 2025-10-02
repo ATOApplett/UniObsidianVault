@@ -38,12 +38,13 @@
 | 8        | Video                                                                                                                                                             | 1 hour         |
 | 8        | Documentation                                                                                                                                                     | 30 mins        |
 |          | *Total = 12 hours 46 mins*                                                                                                                                        |                |
-| 9        | Meetings                                                                                                                                                          | 3 Hours        |
+| 9        | Meetings                                                                                                                                                          | 2 Hours 30 min |
 | 9        | Bug fixing toolbar UI for timed-quiz                                                                                                                              | 3 hours 16 min |
 | 9        | Restructuring fxml to suit UI                                                                                                                                     | 32 min         |
 | 9        | Visual Card game mode bug fix                                                                                                                                     | 2 hours 47 min |
 | 9        | Created UI for Reset Password Page                                                                                                                                | 2 hours 44 min |
 | 9        | Created UI for Progress Page                                                                                                                                      | 2 hours 43 min |
+| 9        | Refactoring fxml                                                                                                                                                  | 30 min         |
 | 9        | Documentation                                                                                                                                                     | 1 hour         |
 |          | *Total = 16 hours 2 mins*                                                                                                                                         |                |
 
@@ -118,6 +119,7 @@
 	- ![[Pasted image 20251002164525.png]]
 	- ![[Pasted image 20251002165533.png]]
 	- ![[Pasted image 20251002164531.png]]
+	- ![[Pasted image 20251002180925.png]]
 # Meetings Proof
 
 - #Week3 
