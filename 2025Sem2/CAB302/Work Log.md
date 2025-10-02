@@ -42,10 +42,10 @@
 | 9        | Bug fixing toolbar UI for timed-quiz                                                                                                                              | 3 hours 16 min |
 | 9        | Restructuring fxml to suit UI                                                                                                                                     | 32 min         |
 | 9        | Visual Card game mode bug fix                                                                                                                                     | 2 hours 47 min |
-| 9        | Created UI for Reset Password Page                                                                                                                                | 3 hours 54 min |
-| 9        | Created UI for Progress Page                                                                                                                                      | 3 hours 43 min |
+| 9        | Created UI for Reset Password Page                                                                                                                                | 3 hours 44 min |
+| 9        | Created UI for Progress Page                                                                                                                                      | 2 hours 23 min |
 | 9        | Documentation                                                                                                                                                     | 1 hour         |
-|          | *Total = 16 hours*                                                                                                                                                |                |
+|          | *Total = 15 hours*                                                                                                                                                |                |
 
 # Timing Proof
 - #Week5
@@ -104,10 +104,15 @@
 	- ![[Pasted image 20250918175311.png]]
 	- ![[Pasted image 20250918180907.png]]
 - #Week9
+	- ![[2025-09-28 16-23-21.mp4]]
 	- ![[Pasted image 20251002164549.png]]
 	- ![[Pasted image 20251002165132.png]]
 	- ![[Pasted image 20251002165401.png]]
+	- ![[Pasted image 20251002165639.png]]
+	- ![[Pasted image 20251002165547.png]]
+	- ![[Pasted image 20251002165501.png]]
 	- ![[Pasted image 20251002164525.png]]
+	- ![[Pasted image 20251002165533.png]]
 	- ![[Pasted image 20251002164531.png]]
 # Meetings Proof
 
