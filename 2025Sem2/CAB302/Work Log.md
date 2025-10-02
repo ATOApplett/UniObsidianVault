@@ -41,7 +41,7 @@
 | 9        | Meetings                                                                                                                                                          | 3 Hours        |
 | 9        | Bug fixing toolbar UI for timed-quiz                                                                                                                              | 3 hours 16 min |
 | 9        | Restructuring fxml to suit UI                                                                                                                                     | 32 min         |
-| 9        | Bug fixing Visual Card game mode nav                                                                                                                              | 2 hours 47 min |
+| 9        | Visual Card game mode bug fix                                                                                                                                     | 2 hours 47 min |
 | 9        | Created UI for Reset Password Page                                                                                                                                | 3 hours 54 min |
 | 9        | Created UI for Progress Page                                                                                                                                      | 3 hours 43 min |
 | 9        | Documentation                                                                                                                                                     | 1 hour         |
@@ -105,6 +105,8 @@
 	- ![[Pasted image 20250918180907.png]]
 - #Week9
 	- ![[Pasted image 20251002164549.png]]
+	- ![[Pasted image 20251002165132.png]]
+	- ![[Pasted image 20251002165401.png]]
 	- ![[Pasted image 20251002164525.png]]
 	- ![[Pasted image 20251002164531.png]]
 # Meetings Proof
