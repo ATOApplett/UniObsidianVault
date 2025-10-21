@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Work Log"
             }
+          },
+          {
+            "id": "f8c155c835fa65ce",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted Images/Pasted image 20250918154909.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250918154909"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Week8",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +87,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,13 +195,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c05c2d499b8b0f22",
+  "active": "f8c155c835fa65ce",
   "lastOpenFiles": [
+    "2025Sem2/CAB302/Work Log.md",
     "2025Sem2/CAB302/Checkpoint 2 Checklist.md",
     "2025Sem2/CAB302/PLANS FOR WEEK 7.md",
     "2025Sem2/EGB242/Report.md",
     "2025Sem2/QUT090/Workbook.md",
-    "2025Sem2/CAB302/Work Log.md",
     "2025Sem2/QUT090",
     "Pasted Images/Pasted image 20251002170348.png",
     "Pasted Images/Pasted image 20251002181710.png",
