@@ -18,3 +18,5 @@
   - Synthesising sound using Piezoelectric buzzers
   - Inverter with Schmitt trigger input to realise a Relaxation Oscillator circuit
 - Assuming I figure out how to build the circuits above, how do I implement them into creating the pcb and alarm circuit
+- How to figure out what i can change to make it different
+- 

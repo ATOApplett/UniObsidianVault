@@ -6,4 +6,5 @@ Lecture 1
 
 ![[Pasted image 20260224083444.png]]
 
+![[Pasted image 20260224083849.png]]
 
