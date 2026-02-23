@@ -5,6 +5,5 @@ Lecture 1
 - Practical exercises to be comnpleted weekly before practical
 
 ![[Pasted image 20260224083444.png]]
-
 ![[Pasted image 20260224083849.png]]
-
+![[Pasted image 20260224084056.png]]
