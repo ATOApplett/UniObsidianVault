@@ -4,6 +4,8 @@ Lecture 1
 
 - Practical exercises to be comnpleted weekly before practical
 
+# Assignments
+- All 3 assignments have the 48 hour applied
 ![[Pasted image 20260224083444.png]]
 ![[Pasted image 20260224083849.png]]
 ![[Pasted image 20260224084056.png]]
