@@ -3,6 +3,7 @@ Lecture 1
 - Insomnia to test endpoints for second half 
 
 - Practical exercises to be comnpleted weekly before practical
+- Download sql, node, and vscode
 
 # Assignments
 - All 3 assignments have the 48 hour applied
