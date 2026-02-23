@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Assignment Wa"
             }
+          },
+          {
+            "id": "8d29c582131e9dbd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +194,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "c05c2d499b8b0f22",
+  "active": "8d29c582131e9dbd",
   "lastOpenFiles": [
     "Pasted image 20260223123806.png",
     "2026Sem1/EGB240/Outline.md",
