@@ -25,12 +25,14 @@
             "id": "8d29c582131e9dbd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "2026Sem1/Cab240/Outline.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "Outline"
             }
           }
         ],
@@ -196,6 +198,9 @@
   },
   "active": "8d29c582131e9dbd",
   "lastOpenFiles": [
+    "Pasted image 20260224083444.png",
+    "2026Sem1/Cab240/Outline.md",
+    "2026Sem1/Cab240",
     "Pasted image 20260223123806.png",
     "2026Sem1/EGB240/Outline.md",
     "2026Sem1/EGB404/Outline.md",
@@ -224,7 +229,6 @@
     "Pasted Images/Pasted image 20251002170403.png",
     "Pasted Images/Pasted image 20251002170355.png",
     "Pasted Images/2025-09-28 16-23-21.mp4",
-    "Pasted Images/Pasted image 20251002165639.png",
     "PDFS/EGB242_Assignment_1-1.pdf",
     "2025Sem2/Checklist.md",
     "2025Sem2/CAB302/Java Readiness.md",
@@ -234,13 +238,11 @@
     "Pasted Images/Untitled.md",
     "PDFS/EGB242 - Assignment Feed-Forward.pdf",
     "Calendar Notes/2025-08-23.md",
-    "PDFS",
     "README.md",
     "2025Sem2/EGB348/Studios/Studio 1.md",
     "Calendar Notes/2025-08-29.md",
     "2025Sem2/CAB302/test.md",
     "2025Sem2/QUT010/Assignment.md",
-    "Calendar Notes/2025-08-24.md",
-    "HTML import/qut010a1.md"
+    "Calendar Notes/2025-08-24.md"
   ]
 }
