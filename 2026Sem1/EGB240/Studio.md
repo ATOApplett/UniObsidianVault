@@ -6,6 +6,7 @@
 # Studio 2
 *Oscilloscope*
 - Become familiar with one
+- Always limit amps to 0.03
 
 *Assignment Related*
 - How to create a two-tone buzzer
