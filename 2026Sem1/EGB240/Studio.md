@@ -22,3 +22,4 @@
 - ![[Pasted image 20260226105515.png]]
 - Circle makes the buzzer noise, volume of noise depends on what frequency (based on capacitor + resistor) ![[Pasted image 20260226110505.png]]
 - ![[Pasted image 20260226110759.png]]
+- Above but with current flow loop ![[Pasted image 20260226113850.png]]
