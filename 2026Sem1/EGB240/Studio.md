@@ -12,6 +12,10 @@
 *Assignment Related*
 - How to create a two-tone buzzer
 - Purpose of the schmitt trigger takes a DC signal and turns it into an oscillation without the use of any other means
+- Used all five gates for a reason
+	- also need to optimise the minimum amount of gates to achieve the two frequency (two-tone buzzer)
+	- "Yes I could've used less gates but I used more to achieve (insert reason) because..."
+	- Many combinations of resistors and capacitors and calculations to justify the frequencies used in the assignment
 - Circuit for schmitt trigger ![[Pasted image 20260226103613.png]]
 - Drawing for schmitt trigger ![[Pasted image 20260226104411.png]]
 - Positive feedback for oscilator by feeding output into input (through the resistor) that is connected to ground (through the capacitor)![[Pasted image 20260226104908.png]]
