@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b1ad29b39be30b22",
@@ -128,12 +129,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2025Sem2/CAB302/Work Log.md",
+                "file": "2026Sem1/Cab240/Practicals/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Work Log"
+              "title": "Outgoing links from Week 1"
             }
           },
           {
@@ -196,7 +197,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8d29c582131e9dbd",
+  "active": "dc33d46b7e0baa69",
   "lastOpenFiles": [
     "2026Sem1/Cab240/Outline.md",
     "2026Sem1/Cab240/Practicals/Week 1.md",
