@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Week1",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,6 +199,7 @@
   },
   "active": "8d29c582131e9dbd",
   "lastOpenFiles": [
+    "Pasted image 20260226103613.png",
     "2026Sem1/EGB240/Outline.md",
     "2026Sem1/EGB240/Studio.md",
     "2026Sem1/EGB240/Assessment 1/Assignment Wa.md",
@@ -243,7 +244,6 @@
     "README.md",
     "2025Sem2/EGB348/Studios/Studio 1.md",
     "Calendar Notes/2025-08-29.md",
-    "2025Sem2/CAB302/test.md",
-    "2025Sem2/QUT010/Assignment.md"
+    "2025Sem2/CAB302/test.md"
   ]
 }

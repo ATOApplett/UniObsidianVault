@@ -10,4 +10,5 @@
 
 *Assignment Related*
 - How to create a two-tone buzzer
+- ![[Pasted image 20260226103613.png]]
 - 
