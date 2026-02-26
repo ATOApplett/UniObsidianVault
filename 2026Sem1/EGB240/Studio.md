@@ -7,7 +7,7 @@
 *Oscilloscope*
 - Become familiar with one
 - Always limit amps to 0.03
-- If oscilloscope shows red, it is pulling more amps then limited to                   
+- If oscilloscope shows red, it is pulling more amps then limited to                    
 
 *Assignment Related*
 - How to create a two-tone buzzer
