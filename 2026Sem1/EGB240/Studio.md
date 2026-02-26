@@ -10,5 +10,6 @@
 
 *Assignment Related*
 - How to create a two-tone buzzer
-- ![[Pasted image 20260226103613.png]]
+- Circuit for schmitt trigger ![[Pasted image 20260226103613.png]]
+- Clock ![[Pasted image 20260226104411.png]]
 - 
