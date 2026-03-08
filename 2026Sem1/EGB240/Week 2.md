@@ -6,3 +6,7 @@ Positive and negative switch
 
 Choose resistor and capacitor values based on the datasheet.
 Can cause the gate to crash so be careful
+
+Things that could be wrong:
+- current flowing back into capacitor
+- time taken to update the state
