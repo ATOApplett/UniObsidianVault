@@ -13,3 +13,5 @@ Things that could be wrong:
 
 ![[Pasted image 20260308132819.png]]
 
+In lecture:
+- 1k resistor, 1 microfarad capacitor
