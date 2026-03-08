@@ -15,3 +15,8 @@ Things that could be wrong:
 
 In lecture:
 - 1k resistor, 1 microfarad capacitor
+
+![[Pasted image 20260308135722.png]]
+
+
+# Studio 2
