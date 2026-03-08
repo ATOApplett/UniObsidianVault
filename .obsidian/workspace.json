@@ -187,8 +187,8 @@
     "hiddenItems": {
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
@@ -198,6 +198,7 @@
   },
   "active": "8d29c582131e9dbd",
   "lastOpenFiles": [
+    "Pasted image 20260308132819.png",
     "Pasted image 20260308120211.png",
     "Pasted image 20260308115931.png",
     "Pasted image 20260308115312.png",
@@ -218,7 +219,6 @@
     "2026Sem1/QUT001/Portfolio.md",
     "Pasted Images/Pasted image 20260226104908.png",
     "Pasted Images/Pasted image 20260226104411.png",
-    "Pasted Images/Pasted image 20260226103613.png",
     "2026Sem1/QUT001",
     "2026Sem1/Cab240",
     "2026Sem1/EGB404/Outline.md",

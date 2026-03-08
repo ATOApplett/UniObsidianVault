@@ -10,3 +10,6 @@ Can cause the gate to crash so be careful
 Things that could be wrong:
 - current flowing back into capacitor
 - time taken to update the state
+
+![[Pasted image 20260308132819.png]]
+
