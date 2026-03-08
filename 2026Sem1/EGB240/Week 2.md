@@ -21,3 +21,5 @@ In lecture:
 ![[Pasted image 20260308140001.png]]
 gap between oscillation is not ideal (too long on first one to transition), maybe values aren't ideal -> talk about in assignment why you chose specific values
 # Studio 2
+![[Pasted image 20260308144235.png]]![[Pasted image 20260308144244.png]]
+Values taken from datasheet
