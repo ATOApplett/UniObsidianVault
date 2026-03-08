@@ -17,6 +17,7 @@ In lecture:
 - 1k resistor, 1 microfarad capacitor
 
 ![[Pasted image 20260308135722.png]]
-
-
+![[Pasted image 20260308135834.png]]
+![[Pasted image 20260308140001.png]]
+gap between oscillation is not ideal (too long on first one to transition), maybe values aren't ideal -> talk about in assignment why you chose specific values
 # Studio 2
