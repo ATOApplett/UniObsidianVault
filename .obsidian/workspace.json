@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026Sem1/Cab240/Practicals/Week 1.md",
+                "file": "2026Sem1/EGB240/Week 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 1"
+              "title": "Week 2"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b1ad29b39be30b22",
@@ -197,13 +196,16 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "dc33d46b7e0baa69",
+  "active": "8d29c582131e9dbd",
   "lastOpenFiles": [
-    "2026Sem1/Cab240/Outline.md",
+    "Pasted image 20260308113739.png",
+    "2026Sem1/EGB240/Week 1.md",
+    "2026Sem1/EGB240/Week 2.md",
+    "Pasted Images/Untitled 2.md",
     "2026Sem1/Cab240/Practicals/Week 1.md",
+    "2026Sem1/Cab240/Outline.md",
     "2026Sem1/Cab240/Practicals",
     "2026Sem1/EGB240/Outline.md",
-    "2026Sem1/EGB240/Studio.md",
     "README.md",
     "Pasted Images/Pasted image 20260226113850.png",
     "Pasted Images/Pasted image 20260226110759.png",
@@ -241,9 +243,6 @@
     "conflict-files-obsidian-git.md",
     "Pasted Images/Untitled 1.md",
     "Pasted Images/Untitled.md",
-    "Calendar Notes/2025-08-23.md",
-    "2025Sem2/EGB348/Studios/Studio 1.md",
-    "Calendar Notes/2025-08-29.md",
-    "2025Sem2/CAB302/test.md"
+    "Calendar Notes/2025-08-23.md"
   ]
 }
