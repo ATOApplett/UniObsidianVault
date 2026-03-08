@@ -23,3 +23,4 @@ gap between oscillation is not ideal (too long on first one to transition), mayb
 # Studio 2
 ![[Pasted image 20260308144235.png]]![[Pasted image 20260308144244.png]]
 Values taken from datasheet
+Test different values to see how sensitive the Schmidt is 
