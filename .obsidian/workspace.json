@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Week 2"
             }
+          },
+          {
+            "id": "c76e2c207ec10a2b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,7 +209,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "8d29c582131e9dbd",
+  "active": "c76e2c207ec10a2b",
   "lastOpenFiles": [
     "Pasted image 20260308220747.png",
     "Pasted image 20260308220745.png",
