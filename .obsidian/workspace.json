@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026Sem1/EGB240/Week 2.md",
+                "file": "2026Sem1/EGB404/Tables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 2"
+              "title": "Tables"
             }
           }
         ],
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b1ad29b39be30b22",
@@ -199,6 +199,10 @@
   },
   "active": "8d29c582131e9dbd",
   "lastOpenFiles": [
+    "2026Sem1/EGB404/Research Topic.md",
+    "2026Sem1/EGB404/Tables.md",
+    "2026Sem1/EGB404/Outline.md",
+    "2026Sem1/EGB240/Week 2.md",
     "Pasted image 20260308220747.png",
     "Pasted image 20260308220745.png",
     "Pasted image 20260308144244.png",
@@ -209,9 +213,7 @@
     "Pasted image 20260308132819.png",
     "Pasted image 20260308120211.png",
     "Pasted image 20260308115931.png",
-    "Pasted image 20260308115312.png",
     "2026Sem1/EGB240/Week 1.md",
-    "2026Sem1/EGB240/Week 2.md",
     "Pasted Images/Untitled 2.md",
     "2026Sem1/Cab240/Practicals/Week 1.md",
     "2026Sem1/Cab240/Outline.md",
@@ -222,9 +224,7 @@
     "2026Sem1/QUT001/Portfolio.md",
     "2026Sem1/QUT001",
     "2026Sem1/Cab240",
-    "2026Sem1/EGB404/Outline.md",
     "2026Sem1/EGB240/Assessment 1",
-    "2026Sem1/EGB404/Research Topic.md",
     "2026Sem1/EGB404",
     "2025Sem2/CAB302/Work Log.md",
     "2025Sem2/CAB302/Checkpoint 2 Checklist.md",
