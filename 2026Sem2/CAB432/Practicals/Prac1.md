@@ -4,4 +4,5 @@ Assignment 1 out
 ![[Pasted image 20260723170949.png]]
 ![[Pasted image 20260723171620.png]]
 ![[Pasted image 20260723172303.png]]
-
+Mandatory Tag
+![[Pasted image 20260723172824.png]]
