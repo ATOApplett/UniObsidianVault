@@ -8,4 +8,5 @@ Mandatory Tag
 ![[Pasted image 20260723172824.png]]
 Lambda
 ![[Pasted image 20260723173536.png]]
+![[Pasted image 20260723174017.png]]
 
