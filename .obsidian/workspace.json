@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Week 1"
             }
+          },
+          {
+            "id": "5a9a6c207b684693",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,7 +223,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "123f7167456df5ef",
+  "active": "5a9a6c207b684693",
   "lastOpenFiles": [
     "2026Sem2/Checklist.md",
     "2026Sem2/CAB403/Practicals/Week 1.md",
