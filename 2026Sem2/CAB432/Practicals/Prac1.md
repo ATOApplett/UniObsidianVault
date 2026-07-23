@@ -3,4 +3,5 @@ Assignment 1 out
 - most likely to use c and JavaScript
 ![[Pasted image 20260723170949.png]]
 ![[Pasted image 20260723171620.png]]
+![[Pasted image 20260723172303.png]]
 
