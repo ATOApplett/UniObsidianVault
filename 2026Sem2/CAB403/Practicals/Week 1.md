@@ -9,3 +9,5 @@ man printf - opens the man page for printf
 
 install C/C+ extension pack
 ![[Pasted image 20260723131853.png]]
+
+Attempt the challenge in your own time
