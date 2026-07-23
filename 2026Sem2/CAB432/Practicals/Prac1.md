@@ -10,3 +10,6 @@ Lambda
 ![[Pasted image 20260723173536.png]]
 ![[Pasted image 20260723174017.png]]
 
+Create a devcontainer.json for vscode
+- linux i think\
+- build container?
