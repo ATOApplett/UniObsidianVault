@@ -11,3 +11,10 @@ install C/C+ extension pack
 ![[Pasted image 20260723131853.png]]
 
 Attempt the challenge in your own time
+stopped paying attention about 30 minutes in
+
+structs are quite important
+
+assignment PST
+- creating a vector
+- submit to gradescope
