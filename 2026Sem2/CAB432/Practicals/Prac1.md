@@ -15,7 +15,7 @@ Create a devcontainer.json for vscode
 - build container?
 Expires after 30 minutes to an hour
 ![[Pasted image 20260723175937.png]]
-
+![[Pasted image 20260723181120.png]]
 aws and cli over clicking into the portal
 
 
