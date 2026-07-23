@@ -6,3 +6,6 @@ Assignment 1 out
 ![[Pasted image 20260723172303.png]]
 Mandatory Tag
 ![[Pasted image 20260723172824.png]]
+Lambda
+![[Pasted image 20260723173536.png]]
+
