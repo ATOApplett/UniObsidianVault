@@ -17,4 +17,5 @@ structs are quite important
 
 assignment PST
 - creating a vector
+- creating the data structure yourself
 - submit to gradescope
