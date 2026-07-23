@@ -13,3 +13,9 @@ Lambda
 Create a devcontainer.json for vscode
 - linux i think\
 - build container?
+Expires after 30 minutes to an hour
+![[Pasted image 20260723175937.png]]
+
+aws and cli over clicking into the portal
+
+
