@@ -18,4 +18,4 @@ Expires after 30 minutes to an hour
 ![[Pasted image 20260723181120.png]]
 aws and cli over clicking into the portal
 
-
+Rewatch about last hour of the tutorial (where he does python installs and stuff)
