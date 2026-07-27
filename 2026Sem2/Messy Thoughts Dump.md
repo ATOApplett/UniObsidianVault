@@ -20,3 +20,4 @@ maybe try find examplars on canvas
 - find some way to upload code that can be accessed through obsidian
 	- maybe vscode inside obsidian if not just paste code in obsidian and push that or just upload the code to a separate repository
 - make google docs easily accessible and readable in obsidian -> mainly for egb345
+- maybe make a way for checks to be unchecked every week

@@ -1,24 +1,49 @@
+#Week1
 **CAB403 – Systems Programming**
 
 - [ ]  Lecture Notes
-- [ ]  
-- [ ]  Final Exam (40%) — exam period
+- [ ]  Practical Notes
 
 **CAB401 – (Audio Visual / Parallelization unit)**
 
-- [ ]  Lecture Notes
-- [ ]  Parallelization Project (50%) — due Week 13
-- [ ]  Final Exam (30%) — exam period
+- [ ]  Lecture Notes 
+- [ ]  Practical Notes
 
 **CAB432 – Cloud Computing**
 
-- [ ]  Cloud-native API (30%) — due Week 6
-- [ ]  Machine Learning in the Cloud (30%) — due Week 9
-- [ ]  Cloud Project (40%) — due during central exam period
+- [ ]  Lecture Notes
+- [ ]  Practical Notes
 
 **EGB345 – (Servo motor / control systems unit)**
 
 - [ ]  Lecture Notes
-- [ ]  Tutorials
+- [ ]  Tutorial Notes
 - [ ]  Challenge Problems
-- [ ]  Practicals ()
+- [ ]  Practical (Week 2, 3, 5)
+
+---
+
+#Template
+**CAB403 – Systems Programming**
+
+- [ ]  Lecture Notes
+- [ ]  Practical Notes
+
+**CAB401 – (Audio Visual / Parallelization unit)**
+
+- [ ]  Lecture Notes 
+- [ ]  Practical Notes
+
+**CAB432 – Cloud Computing**
+
+- [ ]  Lecture Notes
+- [ ]  Practical Notes
+
+**EGB345 – (Servo motor / control systems unit)**
+
+- [ ]  Lecture Notes
+- [ ]  Tutorial Notes
+- [ ]  Challenge Problems
+- [ ]  Practical (Week 2, 3, 5)
+
+---
