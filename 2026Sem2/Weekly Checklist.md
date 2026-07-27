@@ -1,4 +1,4 @@
-#Week1
+#Week2
 **CAB403 – Systems Programming**
 
 - [ ]  Lecture Notes
@@ -19,7 +19,29 @@
 - [ ]  Lecture Notes
 - [ ]  Tutorial Notes
 - [ ]  Challenge Problems
-- [ ]  Practical (Week 2, 3, 5)
+- [ ]  Practical Notes (Week 2, 3, 5)
+
+---
+
+#Week1
+**CAB403 – Systems Programming**
+
+- [x]  Lecture Notes
+- [ ]  Practical Notes
+
+**CAB401 – (Audio Visual / Parallelization unit)**
+
+- [ ]  Lecture Notes 
+- [ ]  Practical Notes
+
+**CAB432 – Cloud Computing**
+
+- [x]  Lecture Notes
+- [ ]  Practical Notes
+
+**EGB345 – (Servo motor / control systems unit)**
+
+- [x]  Lecture Notes
 
 ---
 
@@ -44,6 +66,6 @@
 - [ ]  Lecture Notes
 - [ ]  Tutorial Notes
 - [ ]  Challenge Problems
-- [ ]  Practical (Week 2, 3, 5)
+- [ ]  Practical Notes (Week 2, 3, 5)
 
 ---
