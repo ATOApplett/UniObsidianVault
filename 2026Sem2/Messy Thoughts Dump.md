@@ -25,7 +25,10 @@ maybe try find examplars on canvas
 - maybe make a way for checks to be unchecked every week
 
 Priority:
+- install chrome
 - All week1 prac and lecture notes
+	- fix egb345 summary lecture 
+	- for cab prac notes either think about QOL or just upload code snippets
 - week2 prac and lecture notes
 - some if not all QOL mentioned above
 - assignments (403 first)
