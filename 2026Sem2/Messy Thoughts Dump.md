@@ -13,9 +13,10 @@ maybe try find examplars on canvas
 - go through 401 prac
 - go through 432 prac (last one hour)
 - go through 403 prac (last one hour)
-- finish 345 prac (laplace)
-- find some way to easily upload photos to obsidian
+- finish 345 tutorial (laplace + closed loop)
+- find some way to easily upload photos to obsidian (mainly for 345 tutorials)
 	- phone obsidian or some third party?
+	- or just microsoft lens -> upload to obsidian
 - find some way to upload code that can be accessed through obsidian
 	- maybe vscode inside obsidian if not just paste code in obsidian and push that or just upload the code to a separate repository
 - make google docs easily accessible and readable in obsidian -> mainly for egb345
