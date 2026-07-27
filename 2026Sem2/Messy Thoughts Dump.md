@@ -23,3 +23,12 @@ maybe try find examplars on canvas
 - make google docs easily accessible and readable in obsidian -> mainly for egb345
 - learn and implement latex to work for egb345
 - maybe make a way for checks to be unchecked every week
+
+Priority:
+- All week1 prac and lecture notes
+- week2 prac and lecture notes
+- some if not all QOL mentioned above
+- assignments (403 first)
+- AWS comfortability -> 432
+- C (parallelisation comfortability) -> 401
+- Laplace comfortability -> egb
