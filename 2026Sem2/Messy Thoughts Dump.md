@@ -36,5 +36,5 @@ Priority:
 - C (parallelisation comfortability) -> 401
 - Laplace comfortability -> egb
 Monday - Tuesday
-- "catchup" on last week by doing lecture summaries + do practicals for each cab course
+- "catchup" on last week by doing lecture summaries for all courses + do practicals for each cab course
 - do this weeks egb challenge
