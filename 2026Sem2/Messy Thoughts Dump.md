@@ -1,11 +1,11 @@
-#CAB403
+#CAB403 Virtual machine
 Start on 403 PST during spare time at uni
-#CAB432
+#CAB432 AWS
 Familiarise with AWS (432)
-#CAB401
+#CAB401 C
 AUDIO PRESeNTATION??? WTF IS PARELISATION HELP (401)
 - consider dropping for QUTU course
-#EGB345
+#EGB345 Fourier
 Apparently easier than 242 (prayge)
 maybe try find examplars on canvas
 
@@ -35,3 +35,6 @@ Priority:
 - AWS comfortability -> 432
 - C (parallelisation comfortability) -> 401
 - Laplace comfortability -> egb
+Monday - Tuesday
+- "catchup" on last week by doing lecture summaries + do practicals for each cab course
+- do this weeks egb challenge

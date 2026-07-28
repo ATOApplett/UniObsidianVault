@@ -27,12 +27,13 @@
 **CAB403 – Systems Programming**
 
 - [x]  Lecture Notes
-- [ ]  Practical Notes
+- [x]  Practical Notes
 
 **CAB401 – (Audio Visual / Parallelization unit)**
 
 - [ ]  Lecture Notes 
 - [ ]  Practical Notes
+	- complete and upload c file for hello world in c
 
 **CAB432 – Cloud Computing**
 
