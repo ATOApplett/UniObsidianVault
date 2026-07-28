@@ -38,6 +38,7 @@
 
 - [x]  Lecture Notes
 - [ ]  Practical Notes
+	- upload screenshots of bucket and aws
 
 **EGB345 – (Servo motor / control systems unit)**
 
