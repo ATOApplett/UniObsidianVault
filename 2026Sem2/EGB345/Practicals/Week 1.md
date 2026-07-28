@@ -1,1 +1,1 @@
-Laplace -> Transfer function
+Laplace -> Transfer functi
