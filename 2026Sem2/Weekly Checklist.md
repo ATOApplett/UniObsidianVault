@@ -17,7 +17,7 @@
 **EGB345 – (Servo motor / control systems unit)**
 
 - [ ]  Lecture Notes
-- [ ]  Tutorial Notes
+- [x]  Tutorial Notes
 - [ ]  Challenge Problems
 - [x]  Practical Notes (Week 2, 3, 5)
 
