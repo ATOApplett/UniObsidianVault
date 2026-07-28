@@ -1,1 +1,2 @@
-Laplace -> Transfer functi
+Laplace -> Transfer function
+what is a step input
