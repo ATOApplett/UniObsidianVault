@@ -2,10 +2,16 @@
 #include <stdlib.h>
 #include "dbl_vector.h"
 
-void dv_init( dbl_vector_t* vec ) {
+struct dbl_vector {
     size_t size;
     size_t capacity;
     double* data;
+    #define DV_INITIAL_CAPACITY 4
+    #define DV_GROWTH_FACTOR 1.25
+} dbl_vector_t;
+
+void dv_init( dbl_vector_t* vec ) {
+
 }
 
 void dv_ensure_capacity( dbl_vector_t* vec, size_t new_size ) {
