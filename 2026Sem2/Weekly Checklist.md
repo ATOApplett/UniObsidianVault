@@ -13,7 +13,7 @@
 
 - [ ]  Lecture Notes
 - [ ]  Tutorial Notes
-- [ ]  Challenge Problems
+- [ ]  Portfolio
 - [ ]  Practical Notes (Week 2, 3, 5)
 
 ---
@@ -35,7 +35,7 @@
 - [x]  Lecture Notes
 - [ ]  Tutorial Notes
 	- format it -> question, worked answer
-- [ ]  Challenge Problems
+- [ ]  Portfolio
 - [x]  Practical Notes (Week 2, 3, 5)
 
 ---
