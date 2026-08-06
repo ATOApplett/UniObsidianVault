@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "54b4dd74b289452f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026Sem2/EGB345/Assignments/Reports/Identification Report.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Identification Report"
+            }
+          },
+          {
             "id": "d81c18480f4dd0b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026Sem2/Weekly Checklist.md",
+                "file": "2026Sem2/Assignment Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly Checklist"
+              "title": "Assignment Checklist"
             }
           },
           {
@@ -212,14 +226,17 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "d81c18480f4dd0b6",
+  "active": "54b4dd74b289452f",
   "lastOpenFiles": [
-    "2026Sem2/Messy Thoughts Dump.md",
     "2026Sem2/Assignment Checklist.md",
-    "2026Sem2/EGB345/Tutorials/Week 2.md",
+    "2026Sem2/EGB345/Assignments/Reports/Identification Report.md",
+    "2026Sem2/EGB345/Assignments/Portfolios/Portfolio 2.md",
+    "2026Sem2/EGB345/Assignments/Portfolios/Portfolio 1.md",
+    "2026Sem2/EGB345/Assignments/Portfolios",
     "2026Sem2/Weekly Checklist.md",
+    "2026Sem2/Messy Thoughts Dump.md",
+    "2026Sem2/EGB345/Tutorials/Week 2.md",
     "2026Sem2/EGB345/Practicals/Week 2.md",
-    "2026Sem2/EGB345/Assignments/A1/Files.md",
     "2026Sem2/EGB345/Assignments/tute02.m",
     "2026Sem2/EGB345/Assignments/ServoMotorSysId_2026.asv",
     "2026Sem2/CAB403/Assignments/A1/test.c",
@@ -229,7 +246,6 @@
     "2026Sem2/CAB403/Assignments/A1/PST1.c",
     "2026Sem2/CAB403/Assignments/A2/test.c",
     "2026Sem2/CAB403/Assignments/A2",
-    "2026Sem2/CAB403/Assignments/A1/A2",
     "2026Sem2/CAB403/Practicals/Week 1.md",
     "2026Sem2/CAB432/Practicals/Week 1.md",
     "2026Sem2/CAB403/Lectures/Week 1.md",
@@ -257,7 +273,6 @@
     "2026Sem1/EGB240/Week 2.md",
     "2026Sem1/EGB240/Week 1.md",
     "Imports/Pasted Images/Untitled 2.md",
-    "2026Sem1/Cab240/Practicals/Week 1.md",
-    "2026Sem1/Cab240/Outline.md"
+    "2026Sem1/Cab240/Practicals/Week 1.md"
   ]
 }
