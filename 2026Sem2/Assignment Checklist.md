@@ -10,12 +10,6 @@
 - [ ]  Parallelization Project (50%) — due Week 13
 - [ ]  Final Exam (30%) — exam period
 
-**CAB432 – Cloud Computing**
-
-- [ ]  Cloud-native API (30%) — due Week 6
-- [ ]  Machine Learning in the Cloud (30%) — due Week 9
-- [ ]  Cloud Project (40%) — due during central exam period
-
 **EGB345 – (Servo motor / control systems unit)**
 
 - [ ]  Servo Motor System Identification Report (10%) — due Week 8
@@ -27,10 +21,8 @@
 **All items sorted by due date:**
 
 1. Week 5 — CAB403 Problem Solving Task
-2. Week 6 — CAB432 Cloud-native API
-3. Week 7 — EGB345 Portfolio 1
-4. Week 8 — EGB345 Servo Motor System ID Report
-5. Week 9 — CAB432 Machine Learning in the Cloud
-6. Week 11 — CAB401 Audio Visual Presentation
-7. Week 13 — CAB403 Major Project, CAB401 Parallelization Project, EGB345 Design Report, EGB345 Portfolio 2
-8. Exam period/Block — CAB403 Final Exam, CAB401 Final Exam, CAB432 Cloud Project, EGB345 Written Exam
+2. Week 7 — EGB345 Portfolio 1
+3. Week 8 — EGB345 Servo Motor System ID Report
+4. Week 11 — CAB401 Audio Visual Presentation
+5. Week 13 — CAB403 Major Project, CAB401 Parallelization Project, EGB345 Design Report, EGB345 Portfolio 2
+6. Exam period/Block — CAB403 Final Exam, CAB401 Final Exam, CAB432 Cloud Project, EGB345 Written Exam
