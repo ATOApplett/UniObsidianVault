@@ -9,11 +9,6 @@
 - [ ]  Lecture Notes
 - [ ]  Practical Notes
 
-**CAB432 – Cloud Computing**
-
-- [ ]  Lecture Notes
-- [ ]  Practical Notes
-
 **EGB345 – (Servo motor / control systems unit)**
 
 - [ ]  Lecture Notes
@@ -35,13 +30,6 @@
 - [ ]  Lecture Notes
 - [x]  Practical Notes
 
-**CAB432 – Cloud Computing**
-
-- [x]  Lecture Notes
-- [ ]  Practical Notes
-	- upload screenshots of bucket and aws
-	- and complete the prac
-
 **EGB345 – (Servo motor / control systems unit)**
 
 - [x]  Lecture Notes
@@ -59,11 +47,6 @@
 - [ ]  Practical Notes
 
 **CAB403 – Systems Programming**
-
-- [ ]  Lecture Notes
-- [ ]  Practical Notes
-
-**CAB432 – Cloud Computing**
 
 - [ ]  Lecture Notes
 - [ ]  Practical Notes

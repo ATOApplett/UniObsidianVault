@@ -25,4 +25,4 @@
 3. Week 8 — EGB345 Servo Motor System ID Report
 4. Week 11 — CAB401 Audio Visual Presentation
 5. Week 13 — CAB403 Major Project, CAB401 Parallelization Project, EGB345 Design Report, EGB345 Portfolio 2
-6. Exam period/Block — CAB403 Final Exam, CAB401 Final Exam, CAB432 Cloud Project, EGB345 Written Exam
+6. Exam period/Block — CAB403 Final Exam, CAB401 Final Exam, EGB345 Written Exam
