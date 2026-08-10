@@ -63,7 +63,8 @@
               "title": "Identification Report"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,12 +227,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "85bf6dfdc6435460",
+  "active": "c99390ba39ed1e93",
   "lastOpenFiles": [
+    "2026Sem2/Weekly Checklist.md",
     "2026Sem2/Assignment Checklist.md",
     "2026Sem2/EGB345/Assignments/Portfolios/Portfolio 1.md",
     "2026Sem2/EGB345/Assignments/Portfolios/Portfolio 2.md",
-    "2026Sem2/Weekly Checklist.md",
     "2026Sem2/EGB345/Assignments/Reports/Identification Report.md",
     "2026Sem2/EGB345/Practicals/Week 2.md",
     "2026Sem2/EGB345/Assignments/Portfolios",
