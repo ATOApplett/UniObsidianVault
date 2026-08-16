@@ -1,5 +1,17 @@
+## Brief Overview
 
+1. **Control engineering = measure → compare → correct using feedback.**
+2. EGB345 focuses on the process: **physical → mathematical model → analysis/design → physical solution**.
+3. You must learn to solve **new problems**, not memorise worked examples.
+4. The three main control goals are:
+    - **Stability**
+    - **Low steady-state error**
+    - **Good transient response**
+5. Active learning and self-testing are much more effective than simply rereading notes.
+6. MATLAB, maths, and problem-solving practice are essential for success in this unit.
+7. **Always connect mathematical results back to the real physical system.**
 
+---
 ## 1. What is Control Engineering?
 
 - **Control engineering** uses control theory to design systems with desired behaviours.
