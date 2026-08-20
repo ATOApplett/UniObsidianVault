@@ -6,6 +6,7 @@
 
 **CAB401 – (Audio Visual / Parallelization unit)**
 
+- [ ]  Parallelisation Proposal 
 - [ ]  Audio Visual Presentation (20%) — due Weeks 11
 - [ ]  Parallelization Project (50%) — due Week 13
 - [ ]  Final Exam (30%) — exam period
