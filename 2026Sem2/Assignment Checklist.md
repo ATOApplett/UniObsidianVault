@@ -6,7 +6,7 @@
 
 **CAB401 – (Audio Visual / Parallelization unit)**
 
-- [ ]  Parallelisation Proposal 
+- [ ]  Parallelization Project Proposal (0%) - due Weeks 7
 - [ ]  Audio Visual Presentation (20%) — due Weeks 11
 - [ ]  Parallelization Project (50%) — due Week 13
 - [ ]  Final Exam (30%) — exam period
@@ -22,7 +22,7 @@
 **All items sorted by due date:**
 
 1. Week 5 — CAB403 Problem Solving Task
-2. Week 7 — EGB345 Portfolio 1
+2. Week 7 — EGB345 Portfolio 1, CAB401 Parallelization Project Proposal
 3. Week 8 — EGB345 Servo Motor System ID Report
 4. Week 11 — CAB401 Audio Visual Presentation
 5. Week 13 — CAB403 Major Project, CAB401 Parallelization Project, EGB345 Design Report, EGB345 Portfolio 2
