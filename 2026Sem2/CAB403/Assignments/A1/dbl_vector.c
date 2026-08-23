@@ -11,18 +11,18 @@ void dv_init( dbl_vector_t* vec ) {
 }
 
 void dv_ensure_capacity( dbl_vector_t* vec, size_t new_size ) {
-    if (vec == NULL){
-		return;
-	}
-    if (vec->size != new_size){
-        size_t new_capacity = vec->capacity * DV_GROWTH_FACTOR;
-        if (new_size <= new_capacity){
-            new_capacity = new_size;
-        } else {
-            vec->capacity = new_capacity;
-        }
-        vec->data = realloc(vec->data, vec->capacity * sizeof(double));
+    if (vec == NULL) {
+        return;
     }
+    if (new_size <= vec->capacity) {
+        return;
+    }
+    size_t new_capacity = vec->capacity * DV_GROWTH_FACTOR;
+    if (new_capacity < new_size) {
+        new_capacity = new_size;
+    }
+    vec->capacity = new_capacity;
+    vec->data = realloc(vec->data, vec->capacity * sizeof(double));
 }
 
 void dv_destroy( dbl_vector_t* vec ) {
@@ -81,16 +81,18 @@ double dv_last( dbl_vector_t* vec ) {
 }
 
 void dv_insert_at( dbl_vector_t* vec, size_t pos, double new_item ) {
-    if (pos < vec->size) {
-        dv_ensure_capacity( vec, vec->size + 1);
-        for (int i = vec->size; i > pos; i--){
-            vec->data[i] = vec->data[i - 1];
-        }
-        vec->data[pos] = new_item;
-        vec->size++;
-    } else {
+    if (vec == NULL) {
         return;
     }
+    if (pos > vec->size) {
+        pos = vec->size;
+    }
+    dv_ensure_capacity( vec, vec->size + 1 );
+    for (size_t i = vec->size; i > pos; i--) {
+        vec->data[i] = vec->data[i - 1];
+    }
+    vec->data[pos] = new_item;
+    vec->size++;
 }
 
 void dv_remove_at( dbl_vector_t* vec, size_t pos ) {
