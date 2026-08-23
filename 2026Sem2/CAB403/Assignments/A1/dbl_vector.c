@@ -2,26 +2,18 @@
 #include <stdlib.h>
 #include "dbl_vector.h"
 
-// Definitions
-#define DV_INITIAL_CAPACITY 4
-#define DV_GROWTH_FACTOR 1.25
-// function definitions
-void dv_init (dbl_vector_t* vec);
-//struct
-struct dbl_vector {
-    size_t size;
-    size_t capacity;
-    double* data;
-};
-
 void dv_init( dbl_vector_t* vec ) {
     //double* new_vector = malloc(DV_INITIAL_CAPACITY * sizeof(double));
     vec->size = 0;
     vec->capacity = DV_INITIAL_CAPACITY;
     vec->data = malloc(vec->capacity * sizeof(double));
+    return;
 }
 
 void dv_ensure_capacity( dbl_vector_t* vec, size_t new_size ) {
+    if (vec == NULL){
+		return;
+	}
     if (vec->size != new_size){
         size_t new_capacity = vec->capacity * DV_GROWTH_FACTOR;
         if (new_size <= new_capacity){
@@ -38,6 +30,7 @@ void dv_destroy( dbl_vector_t* vec ) {
     vec->capacity = 0;
     free(vec->data);
     vec->data = NULL;
+    return;
 }
 
 void dv_copy( dbl_vector_t* vec, dbl_vector_t* dest ) {
@@ -96,7 +89,7 @@ void dv_insert_at( dbl_vector_t* vec, size_t pos, double new_item ) {
         vec->data[pos] = new_item;
         vec->size++;
     } else {
-        return
+        return;
     }
 }
 
@@ -112,7 +105,10 @@ void dv_remove_at( dbl_vector_t* vec, size_t pos ) {
 }
 
 void dv_foreach( dbl_vector_t* vec, void (*callback)(double, void*), void* info ) {
-    for (size_t i = 0; i < vec->size; i++){
+    if (vec == NULL){
+		return;
+	}
+    for (int i = 0; i < vec->size; i++){
         callback(vec->data[i], info);
     }
 }
