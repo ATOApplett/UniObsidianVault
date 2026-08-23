@@ -21,7 +21,7 @@ void dv_ensure_capacity( dbl_vector_t* vec, size_t new_size ) {
         } else {
             vec->capacity = new_capacity;
         }
-        vec->data = realloc(old_data, vec->capacity * sizeof(double));
+        vec->data = realloc(vec->data, vec->capacity * sizeof(double));
     }
 }
 
