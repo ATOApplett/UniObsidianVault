@@ -64,14 +64,14 @@ bool create_shared_object( shared_memory_t* shm, const char* share_name ) {
     // and saving the resulting file descriptor in shm->fd. If creation failed,
     // ensure that shm->data is NULL and return false.
     shm->fd   = shm_open(shm->name, O_CREAT | O_RDWR, 0666);
-    if (shm->fd == 0) {
+    if (shm->fd < 0) {
         shm->data = NULL;
         return false;
     }
 
     // Set the capacity of the shared memory object via ftruncate. If the 
     // operation fails, ensure that shm->data is NULL and return false. 
-    if (ftruncate(shm->fd, sizeof(shared_data_t)) == 0) {
+    if (ftruncate(shm->fd, sizeof(shared_data_t)) != 0) {
         shm->data = NULL;
         return false;
     }
@@ -119,7 +119,7 @@ void destroy_shared_object(shared_memory_t* shm) {
     munmap(shm->data, sizeof(shared_data_t));
     shm_unlink(shm->name);
     shm->data = NULL;
-    shm->fd = 0;
+    shm->fd = -1;
 }
 
 /**
