@@ -99,6 +99,21 @@ bool create_shared_object( shared_memory_t* shm, const char* share_name ) {
     return true;
 }
 
+/**
+ * Controller: destroys the shared memory object managed by a shared memory
+ * control block.
+ *
+ * PRE: create_shared_object( shm, shm->name ) has previously been
+ *      successfully invoked.
+ *
+ * POST: munmap has been invoked to remove the mapped memory from the address
+ *       space
+ * AND   shm_unlink has been invoked to remove the object
+ * AND   shm->fd == -1
+ * AND   shm->data == NULL.
+ *
+ * \param shm The address of a shared memory control block.
+ */
 void destroy_shared_object(shared_memory_t* shm) {
     // Remove the shared memory object.
     munmap(shm->data, sizeof(shared_data_t));
@@ -107,6 +122,27 @@ void destroy_shared_object(shared_memory_t* shm) {
     shm->fd = 0;
 }
 
+/**
+ * Controller: Uses shared memory to request and wait for work to be completed
+ * by worker process.
+ *
+ * PRE: create_shared_memory(shm, ...) has previously been invoked, and returned
+ *      true.
+ *
+ * POST: shm->data->operation == op
+ * AND   shm->data->lhs == lhs
+ * AND   shm->data->rhs == rhs
+ * AND   shm->data->result == whatever value the worker has placed there.
+ *
+ * \param shm The address of a shared memory control block.
+ * \param op  The operation code which tells the worker what operation to carry
+ *            out.
+ * \param lhs The first operand.
+ * \param rhs The second operand.
+ * \return Returns the value of shm->data->result, which will be furnished by
+ *         the worker. (The worker may not know the proper rules of arithmetic.
+ *         We accept whatever the worker gives us.)
+ */
 double request_work( shared_memory_t* shm, operation_t op, double lhs, double rhs ) {
     // Copy the supplied values of op, lhs and rhs into the corresponding fields 
     // of the shared data object. 
@@ -125,6 +161,26 @@ double request_work( shared_memory_t* shm, operation_t op, double lhs, double rh
     return shm->data->result;
 }
 
+/**
+ * Worker: Get a file descriptor which may be used to interact with a shared
+ * memory object, and map the shared object to get its address.
+ *
+ * PRE: The Controller has previously invoked create_shared_fd to instantiate
+ * the shared memory object.
+ *
+ * POST: shm_open has been invoked to obtain a file descriptor connected to a
+ *       shared_data_t struct, with support for read and write operations. The
+ *       file descriptor should be saved in shm->fd, regardless of the final
+ *       outcome.
+ *
+ * AND   mmap has been invoked to obtain a pointer to the shared memory, and the
+ *       result has been stored in shm->data, regardless of the final outcome.
+ *
+ * \param share_name The unique identification string of the shared memory
+ *                   object.
+ * \return Returns true if and only if shm->fd >= 0 and
+ *         shm->data != NULL. */
+
 bool get_shared_object( shared_memory_t* shm, const char* share_name ) {
     // Get a file descriptor connected to shared memory object and save in 
     // shm->fd. If the operation fails, ensure that shm->data is 
@@ -137,16 +193,44 @@ bool get_shared_object( shared_memory_t* shm, const char* share_name ) {
 
     // Otherwise, attempt to map the shared memory via mmap, and save the address
     // in shm->data. If mapping fails, return false.
-    shm->data = mmap( NULL, sizeof( shared_data_t ), PROT_READ | PROT_WRITE,
-                       MAP_SHARED, shm->fd, 0 );
-    if ( shm->data == MAP_FAILED ) {
-        shm->data = NULL;
-        return false;
-    }
+    shm->data = mmap(
+        NULL,
+        sizeof(*shm->data),
+        PROT_READ | PROT_WRITE,
+        MAP_SHARED,
+        shm->fd,
+        0
+    );
+    if (shm->data == MAP_FAILED) return false;
 
     // Modify the remaining stub only if necessary.
     return true;
 }
+
+/**
+ * Worker: wait for work request, then complete the required action and notify
+ * the controller that the action is complete.
+ *
+ * PRE: get_shared_object(shm, ... ) has been successfully invoked.
+ *
+ * POST: sem_wait has been invoked to pause execution until work is available.
+ * AND   IF shm->data->operation is op_quit
+ *       THEN
+ *           munmap has been invoked to remove the shared data object from the
+ *           address space,
+ *           AND shm->fd == -1
+ *           AND shm->data == NULL
+ *           AND returned value will be false.
+ *       OTHERWISE
+ *          The arithmetic operation corresponding to shm->data->operation
+ *          has been performed, and the resulting value has been assigned to
+ *          shm->data->result. Other shared data fields are preserved as-is.
+ * AND   sem_post has been invoked to notify the controller that the request has
+ *       been processed.
+ *
+ * \param shm The address of a shared memory control structure.
+ * \return Returns true if and only if the operation is no op_quit.
+ */
 
 bool do_work( shared_memory_t* shm ) {
     bool retVal = true;
