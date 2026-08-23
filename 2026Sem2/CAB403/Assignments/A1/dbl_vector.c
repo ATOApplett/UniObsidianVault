@@ -60,15 +60,23 @@ void dv_clear( dbl_vector_t* vec ) {
 }
 
 void dv_push( dbl_vector_t* vec, double new_item ) {
+    if (vec == NULL){
+		return;
+	}
+
     dv_ensure_capacity(vec, vec->size + 1);
     vec->data[vec->size] = new_item;
     vec->size++;
 }
 
 void dv_pop( dbl_vector_t* vec ) {
-    if (vec->size > 0){
+	if (vec == NULL){
+		return;
+	} else if (vec->size > 0){
         vec->size--;
-    }
+	} else{
+		vec->size = 0;
+	}
 }
 
 double dv_last( dbl_vector_t* vec ) {
@@ -82,11 +90,13 @@ double dv_last( dbl_vector_t* vec ) {
 void dv_insert_at( dbl_vector_t* vec, size_t pos, double new_item ) {
     if (pos < vec->size) {
         dv_ensure_capacity( vec, vec->size + 1);
-        for (size_t i = vec->size; i > pos; i--){
+        for (int i = vec->size; i > pos; i--){
             vec->data[i] = vec->data[i - 1];
         }
         vec->data[pos] = new_item;
         vec->size++;
+    } else {
+        return
     }
 }
 
@@ -96,6 +106,8 @@ void dv_remove_at( dbl_vector_t* vec, size_t pos ) {
             vec->data[i] = vec->data[i + 1];
         }
         vec->size--;
+    } else {
+        return;
     }
 }
 
