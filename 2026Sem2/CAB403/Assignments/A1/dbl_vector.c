@@ -22,9 +22,9 @@ void dv_init( dbl_vector_t* vec ) {
 }
 
 void dv_ensure_capacity( dbl_vector_t* vec, size_t new_size ) {
-    if (vec->size != new_size) {
+    if (vec->size != new_size){
         size_t new_capacity = vec->capacity * DV_GROWTH_FACTOR;
-        if (new_size <= new_capacity) {
+        if (new_size <= new_capacity){
             new_capacity = new_size;
         }
         double* new_vector = realloc(vec->data, new_capacity * sizeof(double));
@@ -41,8 +41,8 @@ void dv_destroy( dbl_vector_t* vec ) {
 }
 
 void dv_copy( dbl_vector_t* vec, dbl_vector_t* dest ) {
-    dv_ensure_capacity( dest, vec->size );
-    for ( size_t i = 0; i < vec->size; i++ ) {
+    dv_ensure_capacity(dest, vec->size);
+    for (size_t i = 0; i < vec->size; i++){
         dest->data[i] = vec->data[i];
     }
     dest->size = vec->size;
@@ -53,20 +53,20 @@ void dv_clear( dbl_vector_t* vec ) {
 }
 
 void dv_push( dbl_vector_t* vec, double new_item ) {
-    dv_ensure_capacity( vec, vec->size + 1 );
+    dv_ensure_capacity(vec, vec->size + 1);
     vec->data[vec->size] = new_item;
     vec->size++;
 }
 
 void dv_pop( dbl_vector_t* vec ) {
-    if (vec->size > 0) {
+    if (vec->size > 0){
         vec->size--;
     }
 }
 
 double dv_last( dbl_vector_t* vec ) {
     double result = NAN;
-    if (vec->size > 0) {
+    if (vec->size > 0){
         result = vec->data[vec->size - 1];
     }
     return result;
@@ -74,8 +74,8 @@ double dv_last( dbl_vector_t* vec ) {
 
 void dv_insert_at( dbl_vector_t* vec, size_t pos, double new_item ) {
     if (pos < vec->size) {
-        dv_ensure_capacity( vec, vec->size + 1 );
-        for ( size_t i = vec->size; i > pos; i-- ) {
+        dv_ensure_capacity( vec, vec->size + 1);
+        for (size_t i = vec->size; i > pos; i--){
             vec->data[i] = vec->data[i - 1];
         }
         vec->data[pos] = new_item;
@@ -84,8 +84,8 @@ void dv_insert_at( dbl_vector_t* vec, size_t pos, double new_item ) {
 }
 
 void dv_remove_at( dbl_vector_t* vec, size_t pos ) {
-    if (pos < vec->size) {
-        for ( size_t i = pos; i < vec->size - 1; i++ ) {
+    if (pos < vec->size){
+        for (size_t i = pos; i < vec->size - 1; i++){
             vec->data[i] = vec->data[i + 1];
         }
         vec->size--;
@@ -93,7 +93,7 @@ void dv_remove_at( dbl_vector_t* vec, size_t pos ) {
 }
 
 void dv_foreach( dbl_vector_t* vec, void (*callback)(double, void*), void* info ) {
-    for ( size_t i = 0; i < vec->size; i++ ) {
-        callback( vec->data[i], info );
+    for (size_t i = 0; i < vec->size; i++){
+        callback(vec->data[i], info);
     }
 }

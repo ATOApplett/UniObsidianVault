@@ -253,7 +253,6 @@ bool do_work( shared_memory_t* shm ) {
         case op_div:
             shm->data->result = shm->data->lhs / shm->data->rhs;
             break;
-        case op_quit:
         default:
             retVal = false;
             break;
