@@ -26,30 +26,37 @@ void dv_ensure_capacity( dbl_vector_t* vec, size_t new_size ) {
         size_t new_capacity = vec->capacity * DV_GROWTH_FACTOR;
         if (new_size <= new_capacity){
             new_capacity = new_size;
+        } else {
+            vec->capacity = new_capacity;
         }
-        double* new_vector = realloc(vec->data, new_capacity * sizeof(double));
-        vec->data = new_vector;
-        vec->capacity = new_capacity;
+        vec->data = realloc(old_data, vec->capacity * sizeof(double));
     }
 }
 
 void dv_destroy( dbl_vector_t* vec ) {
-    free(vec->data);
-    vec->data = NULL;
     vec->size = 0;
     vec->capacity = 0;
+    free(vec->data);
+    vec->data = NULL;
 }
 
 void dv_copy( dbl_vector_t* vec, dbl_vector_t* dest ) {
+    if (vec == NULL || dest == NULL){
+		return;
+	}
     dv_ensure_capacity(dest, vec->size);
+    dest->size = vec->size;
     for (size_t i = 0; i < vec->size; i++){
         dest->data[i] = vec->data[i];
     }
-    dest->size = vec->size;
 }
 
 void dv_clear( dbl_vector_t* vec ) {
-    vec->size = 0;
+    if (vec == NULL){
+		return;
+	} else {
+        vec->size = 0;
+    }
 }
 
 void dv_push( dbl_vector_t* vec, double new_item ) {
