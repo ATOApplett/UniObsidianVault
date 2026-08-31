@@ -1,4 +1,5 @@
 Structure:
+- reask to do slides
 ### 1. What to research (beyond the surface facts)
 
 **Core concepts** — make sure you actually understand these, not just recite them:
