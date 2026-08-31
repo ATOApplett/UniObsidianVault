@@ -34,6 +34,7 @@
 - [ ]  Servo Motor Control System Design Report (20%) — due Week 13
 - [ ]  Portfolio 2 (10%) — due Week 13
 	- [ ] Week 7
+		- [ ] double check week 7 as worked solutions do not go in depth
 	- [ ] Week 8
 	- [ ] Week 9
 	- [ ] Week 10

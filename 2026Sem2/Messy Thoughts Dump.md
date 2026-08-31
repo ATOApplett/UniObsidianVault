@@ -3,7 +3,7 @@ Week 7 Thoughts
 	- [x] EGB345 finish draft
 	- [ ] CAB401 research github/claude & submit form
 	- [x] EGB345 finish identification draft
-	- [ ] EGB345 do week 7 tutorial
+	- [x] EGB345 do week 7 tutorial
 	- [ ] CAB401 presentation research (later down the line get prac questions)
 	- [ ] CAB401 Redo slides draft
 	- [ ] CAB403+CAB401 tutorial/lecture catchup
