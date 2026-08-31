@@ -1,13 +1,17 @@
-	**CAB403 – Systems Programming**
+**CAB403 – Systems Programming**
 
-- [ ]  Problem Solving Task (10%) — due Week 5
+- [x]  Problem Solving Task (10%) — due Week 5
 - [ ]  Major Project (50%) — due Week 13
 - [ ]  Final Exam (40%) — exam period
 
 **CAB401 – (Audio Visual / Parallelization unit)**
 
 - [ ]  Parallelization Project Proposal (0%) - due Weeks 7
+	- Optional but recommended
+	- Check github for inspo and submit something
+	- Ask claude for advice on what programs to use and what to parallize
 - [ ]  Audio Visual Presentation (20%) — due Weeks 11
+	- Get this done when you do project proposal
 - [ ]  Parallelization Project (50%) — due Week 13
 - [ ]  Final Exam (30%) — exam period
 

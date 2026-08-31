@@ -6,3 +6,4 @@
 
 3. What parallel hardware and parallelization language/framework are you considering? E.g. targeting NVidia GPU programmed using CUDA. How many cores does it have? (Note, you need more that 4 virtual cores to achieve an excellent for Optimal Speedup assessment criteria).
 
+
