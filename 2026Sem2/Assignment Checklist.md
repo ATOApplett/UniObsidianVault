@@ -23,12 +23,15 @@
 - [ ]  Portfolio 2 (10%) — due Week 13
 - [ ]  Examination, written (50%) — Exam Block
 
+**QUT004**
+- [ ] Pass/Fail assignment - due Week 13
+
 **All items sorted by due date:**
 
 1. Week 5 — CAB403 Problem Solving Task
 2. Week 7 — EGB345 Portfolio 1, CAB401 Parallelization Project Proposal
 3. Week 8 — EGB345 Servo Motor System ID Report
 4. Week 11 — CAB401 Audio Visual Presentation
-5. Week 13 — CAB403 Major Project, CAB401 Parallelization Project, EGB345 Design Report, EGB345 Portfolio 2
+5. Week 13 — CAB403 Major Project, CAB401 Parallelization Project, EGB345 Design Report, EGB345 Portfolio 2, QUT004 A1
 6. Exam period/Block — CAB403 Final Exam, CAB401 Final Exam, EGB345 Written Exam
 ![[Pasted image 20260817142854.png]]
