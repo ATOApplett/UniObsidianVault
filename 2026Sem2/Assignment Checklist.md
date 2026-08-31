@@ -28,6 +28,7 @@
 		- [ ] Video explanation
 		- [ ] double check working is the same as workshop
 	- [ ] Week 6 
+		- [ ] Find a more suitable working for task 3
 - [ ]  Servo Motor Control System Design Report (20%) — due Week 13
 - [ ]  Portfolio 2 (10%) — due Week 13
 - [ ]  Examination, written (50%) — Exam Block
