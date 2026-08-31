@@ -18,6 +18,7 @@ Layout:
 - Make google doc
 - Put screenshot of question
 - Upload image of solution
+- reference ai for guidance ?
 
 Video Script:
 

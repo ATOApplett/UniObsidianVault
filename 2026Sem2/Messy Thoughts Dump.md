@@ -4,7 +4,7 @@ Week 7 Thoughts
 	- [ ] CAB401 research github/claude & submit form
 	- [x] EGB345 finish identification draft
 	- [ ] EGB345 do week 7 tutorial
-	- [ ] CAB401 do speech + pwr.point + prep q&a questions
+	- [x] CAB401 presentation research (later down the line get prac questions)
 	- [ ] CAB403+CAB401 tutorial/lecture catchup
 
 ![[Pasted image 20260831144217.png]]
