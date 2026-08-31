@@ -21,8 +21,9 @@
 - [ ]  Portfolio 1 (10%) — due Week 7
 	- [ ] Week 3
 		- double check first transfer function
-	- [ ] Week 4
-	- [ ] Week 5
+	- [x] Week 4
+	- [x] Week 5
+		- [ ] Video explanation
 	- [ ] Week 6
 - [ ]  Servo Motor Control System Design Report (20%) — due Week 13
 - [ ]  Portfolio 2 (10%) — due Week 13
