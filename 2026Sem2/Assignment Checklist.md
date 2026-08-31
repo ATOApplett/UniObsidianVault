@@ -19,12 +19,15 @@
 
 - [ ]  Servo Motor System Identification Report (10%) — due Week 8
 - [ ]  Portfolio 1 (10%) — due Week 7
-	- [ ] Week 3
+	- [x] Week 3
 		- [ ] double check first transfer function
+		- [ ] double check working is the same as workshop
 	- [x] Week 4
+		- [ ] double check working is the same as workshop
 	- [x] Week 5
 		- [ ] Video explanation
-	- [ ] Week 6
+		- [ ] double check working is the same as workshop
+	- [ ] Week 6 
 - [ ]  Servo Motor Control System Design Report (20%) — due Week 13
 - [ ]  Portfolio 2 (10%) — due Week 13
 - [ ]  Examination, written (50%) — Exam Block
