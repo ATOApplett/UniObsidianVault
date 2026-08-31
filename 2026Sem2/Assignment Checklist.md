@@ -19,7 +19,7 @@
 
 - [ ]  Servo Motor System Identification Report (10%) — due Week 8
 - [ ]  Portfolio 1 (10%) — due Week 7
-	- [x] Week 3
+	- [ ] Week 3
 		- [ ] double check first transfer function
 	- [x] Week 4
 	- [x] Week 5
