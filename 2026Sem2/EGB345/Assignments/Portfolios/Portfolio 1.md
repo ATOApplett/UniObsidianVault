@@ -18,3 +18,6 @@ Layout:
 - Make google doc
 - Put screenshot of question
 - Upload image of solution
+
+Video Script:
+
