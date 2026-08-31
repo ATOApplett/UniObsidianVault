@@ -1,5 +1,6 @@
 Save figures and include in report?
 -> idk what to put for the "answer" below the code blocks
+check github for answers
 
 Task 1.1
 https://docs.google.com/spreadsheets/d/1221HTyNS-kyEhXRoe1mJHId0QBt59h59cfUl92gIbuI/edit?usp=sharing
@@ -24,3 +25,15 @@ https://docs.google.com/spreadsheets/d/1EM7cAkBnpmlel_C49cU9uyCXT7S89f6f-xLrGk8f
 
 Task 4
 https://docs.google.com/spreadsheets/d/1GeOt2mmTBLhZcn5OC3X8fHYIpEEbxJQeuTiwtIycfIE/edit?usp=sharing
+
+4.3
+**Pole and FVT analysis:** The estimated transfer function G^(s)=N^1s3+D^3s2+D^2s+D^1\hat G(s)=\dfrac{\hat N_1}{s^3+\hat D_3 s^2+\hat D_2 s+\hat D_1} G^(s)=s3+D^3​s2+D^2​s+D^1​N^1​​ has three poles, computed via `pole(sys_est4)`. If all poles have negative real parts, the estimated system is stable, which is physically expected for a speed response settling to a constant value under a step voltage. Applying the Final Value Theorem, the predicted steady-state step response is 2G^(0)=2N^1/D^12\hat G(0)=2\hat N_1/\hat D_1 2G^(0)=2N^1​/D^1​; comparing this to the tail-average of the actual data checks whether the _static gain_ alone is well estimated, independent of the transient shape. A close match here (small % difference) supports the DC-gain portion of the fit; a mismatch would suggest bias in N^1\hat N_1 N^1​ or D^1\hat D_1 D^1​ even if the transient shape looks reasonable. If one pole's real part is substantially larger in magnitude than the other two (i.e., much faster/more negative), that pole decays quickly and contributes negligibly to the visible response — the two slower "dominant poles" are what should be matched most closely to the data's visible rise/settling behaviour, and are also the parameters the RMS-error cost function is most sensitive to (since they dominate the response over the recorded time window).
+
+**Qualitative assessment:** Assuming the overlay plot shows the blue estimated curve tracking the red data's rise time, overshoot/curvature (if any), and settling level closely, with only noise-level scatter and no systematic offset, the estimate is qualitatively good — consistent with a stable system whose dominant poles and DC gain are well captured.
+
+**Quantitative prediction:** Task 2's 2-parameter grid search achieved roughly 1–5% parameter error for a visually similar quality of fit. Task 4 has twice as many parameters (4 vs 2) fitted via a derivative-free local optimizer rather than exhaustive search, and — critically — the fast pole is poorly identifiable from a step response that's dominated by the slow (dominant) pole(s), since its influence decays before it visibly separates the model curve from alternative fast-pole values. I therefore predict **higher** parameter error than Task 2: roughly 5–15% for the dominant (slow) pole-associated parameters, but potentially 15–30%+ for parameters most tied to the fast, non-dominant pole, since RMS-error minimization is much less sensitive to that pole's exact value.
+
+4.4
+**Qualitative difficulty:** Task 4 is substantially harder than Task 3. Task 3 estimates 2 parameters from a 2nd-order system with one obviously "slow" mode; the transient shape and gain are both clearly visible in the data, making the fit well-constrained. Task 4 estimates 4 parameters from a 3rd-order system, where the extra pole and coefficients introduce more ways for different parameter combinations to produce nearly identical step responses (a classic identifiability problem) — especially when one pole is much faster than the others and thus barely visible in the recorded transient.
+
+**Quantitative difficulty:** Grid search was tractable in Task 3's 2-D parameter space (~10210^2 102–10310^3 103 evaluations at reasonable resolution) but becomes computationally infeasible in Task 4's 4-D space at the same resolution (scaling as roughly N4N^4 N4 vs N2N^2 N2), forcing a switch to local optimization (`fminsearch`), which is faster per-run but carries a real risk of converging to a local minimum rather than the global best fit — a risk that didn't meaningfully exist for Task 3's coarse-then-refined exhaustive search. Consequently, I expect Task 4's parameter errors to be both larger in magnitude and less uniform across parameters (dominant-pole parameters more accurate, fast-pole parameters less so) than Task 3's more evenly and tightly constrained 2-parameter estimate.

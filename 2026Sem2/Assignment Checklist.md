@@ -18,6 +18,8 @@
 **EGB345 – (Servo motor / control systems unit)**
 
 - [ ]  Servo Motor System Identification Report (10%) — due Week 8
+	- [ ] Revise written answers
+	- [ ] Revise task 4
 - [ ]  Portfolio 1 (10%) — due Week 7
 	- [x] Week 3
 		- [ ] double check first transfer function
