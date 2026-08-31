@@ -4,8 +4,8 @@ Week 7 Thoughts
 	- CAB401 research github/claude & submit form
 	- EGB345 finish identification
 	- EGB345 do week 7 tutorial
-	- CAB401 do speech + presentation
-	- CAB403 
+	- CAB401 do speech + pwr.point + prep q&a questions
+	- CAB403+CAB401 catchup
 
 #CAB403 Virtual machine
 Start on 403 PST during spare time at uni
