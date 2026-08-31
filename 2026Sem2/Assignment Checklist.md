@@ -31,6 +31,12 @@
 		- [ ] Find a more suitable working for task 3
 - [ ]  Servo Motor Control System Design Report (20%) — due Week 13
 - [ ]  Portfolio 2 (10%) — due Week 13
+	- [ ] Week 7
+	- [ ] Week 8
+	- [ ] Week 9
+	- [ ] Week 10
+		- [ ] Video explanation
+	- [ ] Week 11
 - [ ]  Examination, written (50%) — Exam Block
 
 **QUT004**
