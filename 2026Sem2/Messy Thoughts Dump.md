@@ -1,11 +1,13 @@
 Week 7 Thoughts
 - Priority
-	- EGB345 finish portfolio
-	- CAB401 research github/claude & submit form
-	- EGB345 finish identification
-	- EGB345 do week 7 tutorial
-	- CAB401 do speech + pwr.point + prep q&a questions
-	- CAB403+CAB401 catchup
+	- [x] EGB345 finish draft
+	- [ ] CAB401 research github/claude & submit form
+	- [ ] EGB345 finish identification
+	- [ ] EGB345 do week 7 tutorial
+	- [ ] CAB401 do speech + pwr.point + prep q&a questions
+	- [ ] CAB403+CAB401 tutorial/lecture catchup
+
+![[Pasted image 20260831144217.png]]
 
 #CAB403 Virtual machine
 Start on 403 PST during spare time at uni
