@@ -5,9 +5,9 @@ https://docs.google.com/document/d/1hXerGxpGz3B9lWxOfxsEzH6p7yDSQ8oeOCJdsixaErw/
 - [ ]  Portfolio 1 (10%) — due Week 7
 	- [x] Week 3
 		- [ ] double check first transfer function
-		- [ ] double check working is the same as workshop
+		- [x] double check working is the same as workshop
 	- [x] Week 4
-		- [ ] double check working is the same as workshop
+		- [x] double check working is the same as workshop
 	- [x] Week 5
 		- [ ] Video explanation
 		- [ ] double check working is the same as workshop
