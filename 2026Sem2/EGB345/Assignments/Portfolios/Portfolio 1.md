@@ -7,7 +7,8 @@ https://docs.google.com/document/d/1hXerGxpGz3B9lWxOfxsEzH6p7yDSQ8oeOCJdsixaErw/
 		- [ ] double check first transfer function
 		- [x] double check working is the same as workshop
 	- [x] Week 4
-		- [x] double check working is the same as workshop
+		- [ ] double check working is the same as workshop
+		- [ ] redo working to change J1 and J2 into M1 and M2
 	- [x] Week 5
 		- [ ] Video explanation
 		- [ ] double check working is the same as workshop
