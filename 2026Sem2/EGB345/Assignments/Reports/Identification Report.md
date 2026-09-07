@@ -7,6 +7,7 @@ Things to edit/change
 - make the code (specifically the graphs more human, double check the graphs are actually right)
 - edit reponses (understand them etc)
 - i think variables are fine but double check
+https://docs.google.com/document/d/1tVrYpL4cZ4F2HCV6TZcTx0L4zt3vYJq5nMnUZZiUtEQ/edit?usp=sharing
 
 Task 1.1
 https://docs.google.com/spreadsheets/d/1221HTyNS-kyEhXRoe1mJHId0QBt59h59cfUl92gIbuI/edit?usp=sharing
