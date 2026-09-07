@@ -6,7 +6,7 @@ Things to edit/change
 - change oldCost in 2.1 to something that makes more sense?
 - make the code (specifically the graphs more human, double check the graphs are actually right)
 - edit reponses (understand them etc)
-- 
+- i think variables are fine but double check
 
 Task 1.1
 https://docs.google.com/spreadsheets/d/1221HTyNS-kyEhXRoe1mJHId0QBt59h59cfUl92gIbuI/edit?usp=sharing
