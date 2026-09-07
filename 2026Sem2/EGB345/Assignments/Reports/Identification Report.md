@@ -5,6 +5,23 @@ check github for answers
 Task 1.1
 https://docs.google.com/spreadsheets/d/1221HTyNS-kyEhXRoe1mJHId0QBt59h59cfUl92gIbuI/edit?usp=sharing
 
+2.1
+**What is your approach doing?**
+
+The code performs a **brute-force (exhaustive) grid search** over the two-dimensional parameter space of Km and α. For every combination of Km (0.1 to 10, in steps of 0.1) and α (0.1 to 5, in steps of 0.1), it constructs the candidate model `Km / (s(s + α))`, simulates its step response over the same time vector as the measured data, and computes the root-mean-square (RMS) error between the simulated response and the noisy measured data `yn_random`. The (Km, α) pair that produces the lowest RMS error is retained as the parameter estimate. This is essentially a manual implementation of nonlinear least-squares curve fitting, done by exhaustive search rather than an iterative gradient-based solver.
+
+**Why is your approach useful?**
+
+Grid search is simple to implement, requires no initial guess, and needs no derivatives or gradient information — unlike methods such as `lsqcurvefit` or `fminsearch`, which can converge to a local minimum or diverge if poorly initialized. Because it evaluates the entire specified search space, it is guaranteed to find the global minimum _within the grid's resolution and bounds_. It's also easy to visualize the cost landscape and easy to reason about, since every combination is tested directly against the data.
+
+**When might your approach not work?**
+
+- **Resolution limits**: the true optimum may lie between grid points, so accuracy is capped by the step size (0.1 here).
+- **Bounds**: if the true Km or α lies outside the searched ranges, the method cannot find it.
+- **Computational cost**: the search scales poorly with finer resolution or additional parameters (curse of dimensionality).
+- **Model mismatch**: the method assumes the true system truly has this second-order integrator structure; if the real system has extra poles, zeros, or delay, the fit will be biased regardless of search precision.
+- **Noise sensitivity**: a single noisy realization of `yn_random` can bias the RMS-optimal estimate away from the true parameters, especially with high noise or short data records.
+
 2.2
 The plot overlays the measured step response yn_random (red) with the simulated response of the estimated model G(s) (blue), both driven by the same 2V step over the same time vector. Visually, the blue curve tracks the red data's overall shape closely: the initial rise rate, the curvature through the transient, and the long-term ramping trend of the type-1 (integrator) system all line up well, indicating that the estimated KmK_m Km​ and α\alpha α correctly capture the dominant dynamics. Small, high-frequency deviations of the red trace around the smooth blue curve are visible, consistent with measurement noise present in yn_random that the noise-free model cannot reproduce, this is expected and does not indicate a poor fit. The absence of any large, systematic gap (e.g. consistently faster/slower rise, or a persistent offset) between the two curves confirms the estimate is qualitatively similar to the data, supporting the quantitative parameter values obtained from the grid search.
 
