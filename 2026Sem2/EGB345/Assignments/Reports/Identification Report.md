@@ -2,6 +2,12 @@ Save figures and include in report?
 -> idk what to put for the "answer" below the code blocks
 check github for answers
 
+Things to edit/change
+- change oldCost in 2.1 to something that makes more sense?
+- make the code (specifically the graphs more human, double check the graphs are actually right)
+- edit reponses (understand them etc)
+- 
+
 Task 1.1
 https://docs.google.com/spreadsheets/d/1221HTyNS-kyEhXRoe1mJHId0QBt59h59cfUl92gIbuI/edit?usp=sharing
 
