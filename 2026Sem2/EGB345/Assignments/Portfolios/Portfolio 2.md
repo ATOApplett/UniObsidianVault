@@ -6,6 +6,7 @@ Week 7
 - done i think
 Week 8
 - do the graphs
+- task 3, find out what is the answer after drawing it
 Week 9
 Week 10
 Week 11
