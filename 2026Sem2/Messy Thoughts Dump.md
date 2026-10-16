@@ -1,12 +1,10 @@
-Week 7 Thoughts
-- Priority
-	- [x] EGB345 finish draft
-	- [ ] CAB401 research github/claude & submit form
-	- [x] EGB345 finish identification draft
-	- [x] EGB345 do week 7 tutorial
-	- [ ] CAB401 presentation research (later down the line get prac questions)
-	- [ ] CAB401 slides draft
-	- [ ] CAB403+CAB401 tutorial/lecture catchup
+Week 12-13 Thoughts
+- Finish QUT04
+- Do all portfolio tute questions (worry about extra on wknd)
+- Do script for week 9 explanation
+- Do the matlab
+- Draft report for cab401
+- Finish cab403
 
 ![[Pasted image 20260831144217.png]]
 
