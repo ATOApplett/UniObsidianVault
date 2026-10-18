@@ -11,4 +11,7 @@ Task 1.2 - 1.4 Mathematical
     
 - Note any small difference in stepinfo: it measures Ts to a 2% band, and the formula is an approximation.
 
-Task 2.1
+Tasks 2.1 and 2.2
+- analytical work, shown in doc
+
+
