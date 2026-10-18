@@ -6,7 +6,7 @@ Notes
 	- more so what should even be on it
 - match up task 1 and 2 code to pdf (1-3)
 - task 3 code idk
-- double check varia
+- double check variables in matlab code are the same as the one found in hand working
 
 # Task 1
 1.7 Comments to make:
