@@ -165,3 +165,17 @@ _Qualitative (lecture concepts)_
 Answer to the sheet’s example: KTask1 would work on G_fo only approximately (6.5%, slightly above 5%) and would not work on G_so.
 
 # Task 4
+
+## 4.4
+_Quantitative_
+
+- Settling time is exactly halved (0.90 s against 1.81 s) and overshoot is unchanged at 4.87%.
+- Rise time and peak time also halve, because the poles are scaled by 2 and the response is time-scaled by 1/2.
+
+_Qualitative_
+
+- The compensator moves the poles along the constant-ζ line, away from the origin. Same damping, double the speed.
+- The step steady-state error stays zero, because the plant’s integrator is still in the loop.
+- The velocity constant roughly doubles (Kv = 44.04/9.2 = 4.79 against 2.39 for Task 1), so ramp error halves.
+- The pole-zero cancellation depends on α being exact. In hardware a small mismatch leaves a slow pole-zero pair near −4.6.
+- A lead compensator adds phase lead, which is what moves the locus to the left (more stability margin and speed).
