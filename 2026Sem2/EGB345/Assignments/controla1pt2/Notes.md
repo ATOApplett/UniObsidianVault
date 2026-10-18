@@ -1,4 +1,12 @@
 ![[Pasted image 20261018224142.png]]
+
+Notes
+- double check all qualitative/quantitative reasoning
+- double check root locus (task 3 and 4)
+	- more so what should even be on it
+- match up task 1 and 2 code to pdf (1-3)
+- task 3 code idk
+
 # Task 1
 1.7 Comments to make:
 
@@ -155,3 +163,5 @@ _Qualitative (lecture concepts)_
 - **Trade-off:** lower gain gives robustness but a slower response, so a safe design costs speed.
 
 Answer to the sheet’s example: KTask1 would work on G_fo only approximately (6.5%, slightly above 5%) and would not work on G_so.
+
+# Task 4
