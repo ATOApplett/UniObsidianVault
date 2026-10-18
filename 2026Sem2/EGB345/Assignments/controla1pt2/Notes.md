@@ -1,4 +1,5 @@
-
+![[Pasted image 20261018224142.png]]
+# Task 1
 1.7 Comments to make:
 
 - Open loop is a ramp, as predicted analytically.
@@ -37,7 +38,8 @@ _Qualitative_
 - The design is sensitive to gain error: a ±20% error moves overshoot from 5% to about 2% or 8%.
 
 edit code such that it only uses 5 (0.2 - 1.2)
-## EGB345 Servo Motor Control Design - Task 2 (investigation of gain K)
+# Task 2
+EGB345 Servo Motor Control Design - Task 2 (investigation of gain K)
 
 `clear; clc; close all`
 
@@ -130,4 +132,8 @@ edit code such that it only uses 5 (0.2 - 1.2)
 `disp(stepinfo(feedback(Ksel(i)*G, 1)));`
 
 `end`
+
+
+
+# Task 3
 
