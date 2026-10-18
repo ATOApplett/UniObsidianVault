@@ -136,6 +136,9 @@ EGB345 Servo Motor Control Design - Task 2 (investigation of gain K)
 
 
 # Task 3
+## .1 and .2
+![[task3_1_fast_root_locus (1).png]]
+![[task3_2_slow_root_locus (1) 1.png]]
 
 ## 3.4
 _Quantitative_
