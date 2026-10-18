@@ -1,4 +1,5 @@
 Task 1.2 - 1.4 Mathematical
+- task 1.3 is underdamped
 
 1.7 Comments to make:
 
@@ -10,4 +11,4 @@ Task 1.2 - 1.4 Mathematical
     
 - Note any small difference in stepinfo: it measures Ts to a 2% band, and the formula is an approximation.
 
-
+Task 2.1
