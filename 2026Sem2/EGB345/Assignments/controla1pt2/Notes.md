@@ -137,3 +137,18 @@ EGB345 Servo Motor Control Design - Task 2 (investigation of gain K)
 
 # Task 3
 
+## 3.4
+_Quantitative_
+
+- A gain designed for a model that ignores a pole is not guaranteed to give 5% on the real system. KTask1 gives 4.9% on the model it was designed for, but 6.5% and 15.6% when an extra pole is present.
+- Overshoot is highest for the slow-pole system in every row (15.6%, 12.9%, 4.8%).
+- Kso keeps overshoot at or under 5% on all three systems, but its settling time on G_so (2.47 s) is longer than the others.
+
+_Qualitative (lecture concepts)_
+
+- **Dominant pole approximation:** treating the system as 2nd-order is only valid if the other poles are much further left (the 5× rule). The fast pole (46) satisfies this. The slow pole (9.2) is only about 6× further from the origin than the dominant pair, so it interferes.
+- **Root locus:** an extra pole pulls the locus branches toward the right. The same K then gives lower damping, which is why the stability limit falls from K = 24 (fast) to K = 6.5 (slow).
+- **Design mismatch:** a design is only as good as the model. Unmodelled dynamics reduce the margin, and the effect grows with gain.
+- **Trade-off:** lower gain gives robustness but a slower response, so a safe design costs speed.
+
+Answer to the sheet’s example: KTask1 would work on G_fo only approximately (6.5%, slightly above 5%) and would not work on G_so.
