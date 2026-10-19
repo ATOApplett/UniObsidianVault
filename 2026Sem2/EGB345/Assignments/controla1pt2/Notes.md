@@ -168,7 +168,10 @@ Answer to the sheet’s example: KTask1 would work on G_fo only approximately (6
 # Task 4
 ## Task 4.1 
 - idk if need all that working to find wd
-
+## 4.2 
+![[Pasted image 20261019161633.png]]
+- since poles are like 90 pc is 2x zc?
+- idk
 ## 4.4
 _Quantitative_
 
