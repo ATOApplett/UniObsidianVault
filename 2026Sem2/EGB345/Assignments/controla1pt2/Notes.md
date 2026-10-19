@@ -2,7 +2,7 @@
 
 Notes
 - double check all qualitative/quantitative reasoning
-- double check root locus (task 3 and 4)
+- double check how to do root locus (task 3 and 4)
 	- more so what should even be on it
 - match up task 1 and 2 code to pdf (1-3)
 - task 3 code idk
