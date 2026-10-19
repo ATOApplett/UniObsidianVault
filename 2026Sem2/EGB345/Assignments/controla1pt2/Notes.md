@@ -7,7 +7,7 @@ Notes
 - match up task 1 and 2 code to pdf (1-3)
 - task 3 code idk
 - double check variables in matlab code are the same as the one found in hand working
-- In your portfolio submissions, you would work through drawing the root locus, including: Plance all poles and zeros, determining the number of asymptotes, the COA, the angles of the asymptotes, break out and in points. After those steps the root locus looks like:
+- In your portfolio submissions, you would work through drawing the root locus, including: Plance all poles and zeros, determining the number of asymptotes, **the COA, the angles of the asymptotes, break out and in points**. After those steps the root locus looks like:
 
 # Task 1
 1.7 Comments to make:
