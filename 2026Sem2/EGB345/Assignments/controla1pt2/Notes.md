@@ -33,22 +33,8 @@ _Qualitative_
 - Both closed-loop systems have the same real part of the poles (−2.3), so their settling times are nearly equal. Only the imaginary part, and hence the oscillation, changes.
 - Zero steady-state error to a step comes from the integrator in the plant.
 
-2.3
-_Quantitative_
-
-- The smallest K gives no overshoot but is far slower, about 4 times the settling time of the others.
-- The designed K gives the intended 5% overshoot.
-- Doubling K from the design gives 17% overshoot, with Ts about the same (1.73 s against 1.80 s), as the common real part predicts.
-
-_Qualitative_
-
-- Overdamped (low K): smooth and monotonic, but slow, because the dominant pole is near the origin.
-- Underdamped (high K): faster rise and visible oscillation, with the oscillation frequency increasing with K.
-- All three settle at 1, because the integrator in the plant gives zero steady-state step error whatever K is.
-- The design is sensitive to gain error: a ±20% error moves overshoot from 5% to about 2% or 8%.
-
-edit code such that it only uses 5 (0.2 - 1.2)
 # Task 2
+## 2.3 code
 EGB345 Servo Motor Control Design - Task 2 (investigation of gain K)
 
 `clear; clc; close all`
@@ -143,6 +129,21 @@ EGB345 Servo Motor Control Design - Task 2 (investigation of gain K)
 
 `end`
 
+## 2.3 reasoning
+_Quantitative_
+
+- The smallest K gives no overshoot but is far slower, about 4 times the settling time of the others.
+- The designed K gives the intended 5% overshoot.
+- Doubling K from the design gives 17% overshoot, with Ts about the same (1.73 s against 1.80 s), as the common real part predicts.
+
+_Qualitative_
+
+- Overdamped (low K): smooth and monotonic, but slow, because the dominant pole is near the origin.
+- Underdamped (high K): faster rise and visible oscillation, with the oscillation frequency increasing with K.
+- All three settle at 1, because the integrator in the plant gives zero steady-state step error whatever K is.
+- The design is sensitive to gain error: a ±20% error moves overshoot from 5% to about 2% or 8%.
+
+edit code such that it only uses 5 (0.2 - 1.2)
 
 
 # Task 3
