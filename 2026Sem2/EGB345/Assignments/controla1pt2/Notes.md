@@ -2,12 +2,11 @@
 
 Notes
 - double check all qualitative/quantitative reasoning
-- double check how to do root locus (task 3 and 4)
-	- more so what should even be on it
 - match up task 1 and 2 code to pdf (1-3)
 - double check variables in matlab code are the same as the one found in hand working
 - maybe redo 4.2 locus
 - fix task 3 code???
+- do video and last task of portfolio 2 you dumbass
 
 # Task 1
 1.7 Comments to make:
