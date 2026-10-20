@@ -1,0 +1,3 @@
+- open mp where
+- flame graph?
+- yeah
