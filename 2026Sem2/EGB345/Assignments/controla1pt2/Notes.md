@@ -20,6 +20,7 @@ Notes
     
 - Note any small difference in stepinfo: it measures Ts to a 2% band, and the formula is an approximation.
 
+## 1.7
 _Quantitative_
 
 - Overshoot matches closely in both closed-loop cases.
