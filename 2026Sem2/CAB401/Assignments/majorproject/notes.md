@@ -1,3 +1,3 @@
-- open mp where
+- how and where to use mp
 - flame graph?
 - yeah
