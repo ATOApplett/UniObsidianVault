@@ -1,4 +1,4 @@
-![[Pasted image 20261018224142.png]]
+	![[Pasted image 20261018224142.png]]
 
 Notes
 - double check all qualitative/quantitative reasoning
