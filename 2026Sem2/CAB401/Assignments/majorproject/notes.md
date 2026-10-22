@@ -1,5 +1,7 @@
 - how and where to use mp
 - flame graph?
-- yeah
+- firstly sort out before and afters
+- figure out where the openMP is mentioned (or parallelisation)
+- yes
 ![[Pasted image 20261022145529.png]]
 ![[Pasted image 20261022145540.png]]
