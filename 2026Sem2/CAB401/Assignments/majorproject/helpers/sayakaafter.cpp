@@ -3,10 +3,8 @@
 #include <string.h>
 #include <time.h>
 #include <math.h>
-#include <errno.h>
+#include <chrono>
 #include <vector>
-#include <cmath>
-#include <algorithm>
 
 int number_bacteria;
 char** bacteria_name;
@@ -16,16 +14,6 @@ short code[27] = { 0, 2, 1, 2, 3, 4, 5, 6, 7, -1, 8, 9, 10, 11, -1, 12, 13, 14, 
 #define LEN				6
 #define AA_NUMBER		20
 #define	EPSILON			1e-010
-
-static int fopen_x(FILE** fp, const char* path, const char* mode) {
-	#ifdef _MSC_VER
-		return fopen_s(fp, path, mode);
-	#else
-		*fp = fopen(path, mode);
-		return (*fp == NULL) ? errno : 0;
-	#endif
-	}
-
 
 void Init()
 {
@@ -93,7 +81,7 @@ public:
 	Bacteria(char* filename)
 	{
 		FILE* bacteria_file;
-		int OK = fopen_x(&bacteria_file, filename, "r");
+		errno_t OK = fopen_s(&bacteria_file, filename, "r");
 
 		if (OK != 0)
 		{
@@ -163,14 +151,16 @@ public:
 			if (stochastic > EPSILON) 
 			{
 				t[i] = (vector[i] - stochastic) / stochastic;
-				count++;
+
+				if (t[i] != 0) //onyl stores nonzero values
+					count++;
 			}
 			else
 				t[i] = 0;
 		}
 		
 		delete[] second_div_total;
-		delete[]vector;
+		delete[] vector;
 		delete[] second;
 
 		tv = new double[count];
@@ -190,12 +180,18 @@ public:
 
 		fclose (bacteria_file);
 	}
+
+	 ~Bacteria() //release sparse vectors when a Bacteria object is deleted
+    {
+        delete[] tv;
+        delete[] ti;
+    }
 };
 
 void ReadInputFile(const char* input_name)
 {
 	FILE* input_file;
-	int OK = fopen_x(&input_file, input_name, "r");
+	errno_t OK = fopen_s(&input_file, input_name, "r");
 
 	if (OK != 0)
 	{
@@ -203,23 +199,15 @@ void ReadInputFile(const char* input_name)
 		exit(1);
 	}
 
-	if (fscanf(input_file, "%d", &number_bacteria) != 1)
-    {
-        fprintf(stderr, "Error: malformed list file (missing count)\n");
-        exit(1);
-    }
+	fscanf_s(input_file, "%d", &number_bacteria);
 	bacteria_name = new char*[number_bacteria];
 
 	for(long i=0;i<number_bacteria;i++)
 	{
 		char name[10];
-		if (fscanf(input_file, "%9s", name) != 1)
-        {
-            fprintf(stderr, "Error: malformed list file (bad name at line %ld)\n", i + 2);
-            exit(1);
-        }
+		fscanf_s(input_file, "%s", name, 10);
 		bacteria_name[i] = new char[20];
-		snprintf(bacteria_name[i], 20, "data/%s.faa", name);
+		sprintf_s(bacteria_name[i], 20, "data/%s.faa", name);
 	}
 	fclose(input_file);
 }
@@ -274,39 +262,114 @@ double CompareBacteria(Bacteria* b1, Bacteria* b2)
 
 void CompareAllBacteria()
 {
-	Bacteria** b = new Bacteria*[number_bacteria];
-    for(int i=0; i<number_bacteria; i++)
+	using Clock = std::chrono::steady_clock;
+
+    int n = number_bacteria;
+    Bacteria** b = new Bacteria*[n];
+
+    
+    std::vector<std::vector<double>> results(
+        n, std::vector<double>(n, 0.0)); // Only the entries with j > i will be used
+
+    const auto preparation_start = Clock::now();
+
+    // Stage 1: prepare each dataset's composition vector
+	#ifdef _OPENMP
+	#pragma omp parallel for default(none) shared(b, bacteria_name, n) schedule(dynamic, 1)
+	#endif
+    for (int i = 0; i < n; i++)
+    {
+        b[i] = new Bacteria(bacteria_name[i]);
+    }
+
+    const auto preparation_end = Clock::now();
+
+    for (int i = 0; i < n; i++)
+        printf("load %d of %d\n", i + 1, n);
+
+    const auto comparison_start = Clock::now();
+
+    // Build a list of every unique pair.
+	// Include this setup cost in the comparison-stage timing.
+	std::vector<int> pair_i;
+	std::vector<int> pair_j;
+
+	const int pair_count = n * (n - 1) / 2;
+
+	pair_i.reserve(pair_count);
+	pair_j.reserve(pair_count);
+
+    for (int i = 0; i < n - 1; i++)
+    {
+        for (int j = i + 1; j < n; j++)
+        {
+            pair_i.push_back(i);
+        	pair_j.push_back(j);
+        }
+    }
+
+	// Distribute individual pairs among threads.
+	#ifdef _OPENMP
+	#pragma omp parallel for default(none) shared(b, results, pair_i, pair_j, pair_count) schedule(dynamic, 1)
+	#endif
+	for (int k = 0; k < pair_count; ++k)
 	{
-		printf("load %d of %d\n", i+1, number_bacteria);
-		b[i] = new Bacteria(bacteria_name[i]);
+		const int i = pair_i[k];
+		const int j = pair_j[k];
+
+		results[i][j] = CompareBacteria(b[i], b[j]);
 	}
 
-    for(int i=0; i<number_bacteria-1; i++)
-		for(int j=i+1; j<number_bacteria; j++)
-		{
-			printf("%2d %2d -> ", i, j);
-			double correlation = CompareBacteria(b[i], b[j]);
-			printf("%.20lf\n", correlation);
-		}
+    const auto comparison_end = Clock::now();
+
+    // Print in a fixed order after all calculations finish
+    for (int i = 0; i < n - 1; i++)
+    {
+        for (int j = i + 1; j < n; j++)
+        {
+            printf("%2d %2d -> %.20lf\n", i, j, results[i][j]);
+        }
+    }
+
+    const double preparation_seconds =
+        std::chrono::duration<double>(
+            preparation_end - preparation_start).count();
+
+    const double comparison_seconds =
+        std::chrono::duration<double>(
+            comparison_end - comparison_start).count();
+
+    printf("vector preparation: %.6f seconds\n",
+           preparation_seconds);
+
+    printf("pair comparisons: %.6f seconds\n",
+           comparison_seconds);
+
+
+	for (int i = 0; i < n; i++)
+    	delete b[i];
+
+	delete[] b;
 }
 
 int main(int argc,char * argv[])
 {
-	struct timespec start, end;
-	time_t t1 = time(NULL);
+	using Clock = std::chrono::steady_clock;
+    const auto start = Clock::now();
 
-	clock_gettime(CLOCK_MONOTONIC, &start);
 	Init();
 	ReadInputFile("list.txt");
 	CompareAllBacteria();
 
-	clock_gettime(CLOCK_MONOTONIC, &end);
+	for (int i = 0; i < number_bacteria; i++) //delete each filename string
+    	delete[] bacteria_name[i];
+	delete[] bacteria_name; //delete the array of filename pointers
 
-    double elapsed_seq =
-        (end.tv_sec  - start.tv_sec) +
-        (end.tv_nsec - start.tv_nsec) / 1e9;
+	const auto end = Clock::now();
 
-    printf("time elapsed: %.3f seconds\n", elapsed_seq); // 3 decimal places
-	
+    const double elapsed =
+        std::chrono::duration<double>(end - start).count();
+
+	printf("time elapsed: %.6f seconds\n", elapsed); 
 	return 0;
 }
