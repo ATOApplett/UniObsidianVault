@@ -10,8 +10,12 @@ Week 8
 - task 5 answer found below
 
 Week 9
+- redo root locus graph
 Week 10
+- do task 3 + video
 Week 11
+- matlab?
+- 
 
 ### Week 8 task 5
 **a) Stable for all K:** **Task 1, Task 2, Task 4**  
