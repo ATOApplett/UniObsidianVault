@@ -13,5 +13,6 @@ Last minute
 - instructions are there
 - layout of doc too similar
 - Identify where in the code i can snippet
+- mention if you have to manually edit how many cores
 ![[Pasted image 20261022145529.png]]
 ![[Pasted image 20261022145540.png]]
