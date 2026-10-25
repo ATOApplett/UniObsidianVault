@@ -18,8 +18,9 @@ Last minute
 
 Main things dw if it doesn't work
 - prove the outputs are the same
-- how to recreate 
 - diagrams (i.e. flame graph)
 - code snippets
+- re write descriptions
+- double check numbers
 ![[Pasted image 20261022145529.png]]
 ![[Pasted image 20261022145540.png]]

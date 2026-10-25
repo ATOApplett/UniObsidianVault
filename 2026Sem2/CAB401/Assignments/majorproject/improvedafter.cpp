@@ -9,7 +9,7 @@
 #include <omp.h>
 #endif
 
-#define MAX_LOAD_THREADS 4
+#define MAX_LOAD_THREADS 8
 
 int number_bacteria;
 char** bacteria_name;
