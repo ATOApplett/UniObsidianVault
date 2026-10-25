@@ -12,5 +12,6 @@ Last minute
 - openmp?
 - instructions are there
 - layout of doc too similar
+- Identify where in the code i can snippet
 ![[Pasted image 20261022145529.png]]
 ![[Pasted image 20261022145540.png]]
